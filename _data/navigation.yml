@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications & Projects"
-    url: "/#-publications-projects"
+  - title: "Publications and Projects"
+    url: "/#-publications-and-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -18,8 +18,8 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships & Research Experience"
-    url: "/#-internships-research-experience"
+  - title: "Internships and Research Experience"
+    url: "/#-internships-and-research-experience"
 
   - title: "Articles"
     url: "/#-articles"
