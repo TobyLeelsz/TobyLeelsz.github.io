@@ -16,7 +16,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Homepage has been set up.  
+- *2023.09*, &nbsp;🎉🎉 Homepage has been set up.  
 
 # 📝 Publications and Projects
 - *2021.9-2021.12* **EDCV Project**, Creating an mobile APP that designed to use computer vision technics in order to optimize the waiting time in the school canteen.
