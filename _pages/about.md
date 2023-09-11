@@ -32,7 +32,9 @@ My research interest includes reinforcement learning and generative models. I ha
 
 # 📖 Educations
 - *2021.09 - now*, Unergraduate student, South China University of Technology.
-- *2019.06 - 2021.09*, High school student, Affiliated High School of South China Normal University. 
+- *2019.06 - 2021.09*, High school student, Affiliated High School of South China Normal University.
+
+**Current GPA:** 3.87/4.00  **Current Rank:** 3/80
 
 # 💬 Invited Talks
 - *2023.09*, Invited by Xinjie Shen, Application of Diffusion Model on Offline Reinforcement Learning.
