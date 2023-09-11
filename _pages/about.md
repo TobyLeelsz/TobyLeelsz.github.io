@@ -3,8 +3,8 @@ Hello! Here is Shangzhe Li, an undergraduate student from South China University
 My research interest includes reinforcement learning and generative models. I haven't published any papers yet but I'm trying my best in the research.
 
 *Links to my social media:*
-[**Bilibili**](https://space.bilibili.com/183461839)
-[**Zhihu**](https://www.zhihu.com/people/dva13304)
+- [**Bilibili**](https://space.bilibili.com/183461839)
+- [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Homepage has been set up.  
