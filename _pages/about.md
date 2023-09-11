@@ -19,7 +19,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.  
 
 # 📝 Publications and Projects
-- *2021.9-2021.12* **EDCV Project**, Creating an mobile APP that designed to use computer vision technics in order to optimize the waiting time in the school canteen.
+- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision technics in order to optimize the waiting time in the school canteen.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
