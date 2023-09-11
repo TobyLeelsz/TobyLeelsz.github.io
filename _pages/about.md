@@ -42,6 +42,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning.
 
 # 📝 Articles
+*Notice: All of the articles here are written in Chinese.*
 **Physics Part:**
 - [**Propagation of electromagnetic waves in the presence of conductors**](https://zhuanlan.zhihu.com/p/487555515)
 - [**Solution of Laplace's equation in spherical coordinate system**](https://zhuanlan.zhihu.com/p/492694563)
