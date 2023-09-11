@@ -18,7 +18,7 @@ My research interest includes reinforcement learning and generative models. I ha
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Homepage has been set up.  
 
-# 📝 Publications & Projects
+# 📝 Publications and Projects
 - *2021.9-2021.12* **EDCV Project**, A project designed to use computer vision technics in order to optimize the waiting time in school canteen.
 
 # 🎖 Honors and Awards
@@ -37,7 +37,7 @@ My research interest includes reinforcement learning and generative models. I ha
 # 💬 Invited Talks
 - *2023.09*, Invited by Xinjie Shen, Application of Diffusion Model on Offline Reinforcement Learning.
 
-# 💻 Internships & Research Experience
+# 💻 Internships and Research Experience
 - *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research.
 - *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning.
 
