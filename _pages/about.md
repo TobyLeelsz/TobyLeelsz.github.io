@@ -40,8 +40,8 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2023.09*, Invited by Xinjie Shen, Application of Diffusion Model on Offline Reinforcement Learning.
 
 # 💻 Internships and Research Experience
-- *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research.
-- *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning.
+- *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
+- *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning. Mentor: [**Prof. Xinhua Zhang**](https://www.cs.uic.edu/~zhangx/)
 
 # 📝 Articles
 *Notice: All of the articles here are written in Chinese.* 
