@@ -64,7 +64,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - [**Gravitational wave**](https://zhuanlan.zhihu.com/p/614730295)
 - [**Gravitational wave advanced**](https://zhuanlan.zhihu.com/p/615282349)
 - [**Universal definition of the action and energy tensor**](https://zhuanlan.zhihu.com/p/619484924)
-- [**Energetic tensor advanced and gravitational action**](https://zhuanlan.zhihu.com/p/621155312)
+- [**Energy-Momentum tensor advanced and gravitational action**](https://zhuanlan.zhihu.com/p/621155312)
 - [**Killing vector fields and maximal symmetric spaces**](https://zhuanlan.zhihu.com/p/624578802)
 - [**Lie group and Lie algebra**](https://zhuanlan.zhihu.com/p/644154704)
 - [**Quantum Lorentz transformations and Poincaré algebra**](https://zhuanlan.zhihu.com/p/645056327)
