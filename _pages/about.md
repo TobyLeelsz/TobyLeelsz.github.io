@@ -56,7 +56,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - [**Intrinsic time variations, geodesic equations advanced**](https://zhuanlan.zhihu.com/p/599930752)
 - [**Riemann curvature tensor**](https://zhuanlan.zhihu.com/p/600891458)
 - [**Curvature advanced and Bianchi Constant Equation**](https://zhuanlan.zhihu.com/p/601088640)
-- [**Energy-Momentom tensor and Einstein field equations**](https://zhuanlan.zhihu.com/p/601255696)
+- [**Energy-Momentum tensor and Einstein field equations**](https://zhuanlan.zhihu.com/p/601255696)
 - [**Relativistic electrodynamics and electromagnetic analogies**](https://zhuanlan.zhihu.com/p/602635631)
 - [**Harmonic coordinate condition**](https://zhuanlan.zhihu.com/p/604933950)
 - [**Energy, momentum and angular momentum of a gravitational field**](https://zhuanlan.zhihu.com/p/611102483)
