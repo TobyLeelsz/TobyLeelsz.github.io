@@ -76,6 +76,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - [**Continuous and discrete time Fourier transforms**](https://zhuanlan.zhihu.com/p/606937411)
 - [**Laplace transform and Z-transform**](https://zhuanlan.zhihu.com/p/611844650)
 - [**Primary fiber bundle (I)**](https://zhuanlan.zhihu.com/p/644632269)
+- [**Primary fiber bundle (II)**](https://zhuanlan.zhihu.com/p/656135139)
 
 **Convex Optimization Part:**
 - [**Optimality theory for unconstrained problems**](https://zhuanlan.zhihu.com/p/612089283)
