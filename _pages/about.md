@@ -31,6 +31,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2022* Second Prize, Taihu Science Innovation Scholarship
 
 # 📖 Educations
+- *2023.10 - now*, Exchange student, Technical University of Munich.
 - *2021.09 - now*, Unergraduate student, South China University of Technology.
 - *2018.09 - 2021.06*, High school student, Affiliated High School of South China Normal University.
 
@@ -43,6 +44,7 @@ My research interest includes reinforcement learning and generative models. I ha
 # 💻 Internships and Research Experience
 - *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
 - *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning. Mentor: [**Prof. Xinhua Zhang**](https://www.cs.uic.edu/~zhangx/)
+- *2023.10 - now*, Research on the Control Approach for Two-way Coupled Fluid Simulation. Mentor: [**Prof. Nils Thuerey**](https://ge.in.tum.de/about/n-thuerey/)
 
 # 📝 Articles
 *Notice: All of the articles here are written in Chinese.* 
