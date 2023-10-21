@@ -42,9 +42,9 @@ My research interest includes reinforcement learning and generative models. I ha
   Link: [**Application of Diffusion Model on Offline Reinforcement Learning**](https://www.bilibili.com/video/BV1C8411v7QD/)
 
 # 💻 Internships and Research Experience
-- *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
-- *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning. Mentor: [**Prof. Xinhua Zhang**](https://www.cs.uic.edu/~zhangx/)
-- *2023.10 - now*, Research on the Control Approach for Two-way Coupled Fluid Simulation. Mentor: [**Prof. Nils Thuerey**](https://ge.in.tum.de/about/n-thuerey/)
+- *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
+- *2023.05 - now*, Application of Diffusion Model on Offline Reinforcement Learning. Mentor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
+- *2023.10 - now*, Research on the Control Approach for Two-way Coupled Fluid Simulation. Mentor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/)
 
 # 📝 Articles
 *Notice: All of the articles here are written in Chinese.* 
