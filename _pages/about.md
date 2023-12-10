@@ -37,9 +37,10 @@ My research interest includes reinforcement learning and generative models. I ha
 
 **Current GPA:** 3.87/4.00  **Current Rank:** 3/80
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2023.09*, Invited by the Artificial Intelligence Association of South China University of Technology, Application of Diffusion Model on Offline Reinforcement Learning.
   Link: [**Application of Diffusion Model on Offline Reinforcement Learning**](https://www.bilibili.com/video/BV1C8411v7QD/)
+- *2023.12*, performed presentation in the Doctoral Seminar of Thuerey's Group from Technical University of Munich, Application of Diffusion Model on Offline Reinforcement Learning.
 
 # 💻 Internships and Research Experience
 - *2022.09 - 2023.04*, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
