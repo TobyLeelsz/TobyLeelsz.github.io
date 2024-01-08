@@ -43,9 +43,10 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2023.12*, Performed presentation in the Doctoral Seminar of Thuerey's Group from Technical University of Munich, Application of Diffusion Model on Offline Reinforcement Learning.
 
 # 💻 Internships and Research Experience
-- *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Mentor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
-- *2023.05 - now*, **Research Intern**, Application of Diffusion Model on Offline Reinforcement Learning. Mentor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
-- *2023.10 - now*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Mentor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/)
+- *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Supervisor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
+- *2023.05 - now*, **Research Intern**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
+- *2023.10 - now*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Supervisor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/), [**Dr. Patrick Schnell**](https://ge.in.tum.de/about/patrick-schnell/)
+- *2024.01 - now*, **Visiting Researcher**, Research on the Fast Adaptation Methods on Reinforcement Learning. Supervisor: [**Prof. Marco Caccamo, Technical University of Munich**](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/), [**Dr. Hongpeng Cao**](https://rtsl.cps.mw.tum.de/view_member?id=15)
 
 # 📝 Articles
 *Notice: All of the articles here are written in Chinese.* 
@@ -79,8 +80,9 @@ My research interest includes reinforcement learning and generative models. I ha
 - [**Symmetry of the tensor**](https://zhuanlan.zhihu.com/p/543078969)
 - [**Continuous and discrete time Fourier transforms**](https://zhuanlan.zhihu.com/p/606937411)
 - [**Laplace transform and Z-transform**](https://zhuanlan.zhihu.com/p/611844650)
-- [**Primary fiber bundle (I)**](https://zhuanlan.zhihu.com/p/644632269)
-- [**Primary fiber bundle (II)**](https://zhuanlan.zhihu.com/p/656135139)
+- [**Primary fiber bundles (I)**](https://zhuanlan.zhihu.com/p/644632269)
+- [**Primary fiber bundles (II)**](https://zhuanlan.zhihu.com/p/656135139)
+- [**Connections on primary fibre bundles**](https://zhuanlan.zhihu.com/p/676335305)
 
 **Convex Optimization Part:**
 - [**Optimality theory for unconstrained problems**](https://zhuanlan.zhihu.com/p/612089283)
