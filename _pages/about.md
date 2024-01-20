@@ -19,7 +19,7 @@ My research interest includes reinforcement learning and generative models. I ha
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.  
 
 # 📝 Publications and Projects
-- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision technics in order to optimize the waiting time in the school canteen.
+- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
@@ -32,7 +32,7 @@ My research interest includes reinforcement learning and generative models. I ha
 
 # 📖 Educations
 - *2023.10 - now*, Exchange student, Technical University of Munich.
-- *2021.09 - now*, Unergraduate student, South China University of Technology.
+- *2021.09 - now*, Undergraduate student, South China University of Technology.
 - *2018.09 - 2021.06*, High school student, Affiliated High School of South China Normal University.
 
 **Current GPA:** 3.87/4.00  **Current Rank:** 3/80
