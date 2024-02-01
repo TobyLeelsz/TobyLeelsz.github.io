@@ -21,7 +21,9 @@ My research interest includes reinforcement learning and generative models.
 
 # 📝 Publications and Projects
 - *2024.01* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**
+
   Author: **Shangzhe Li**, Xinhua Zhang
+  
   Abstract: Deep generative models have recently emerged as an effective approach to offline reinforcement learning. However, their large model size poses challenges in computation. We address this issue by proposing a knowledge distillation method based on data augmentation. In particular, high-return trajectories are generated from a conditional 
   diffusion model, and they are blended with the original trajectories through a novel stitching algorithm that leverages a new reward generator. Applying the resulting dataset to behavioral cloning, the learned shallow policy whose size is much smaller outperforms or nearly matches deep generative planners on several D4RL benchmarks.
   
