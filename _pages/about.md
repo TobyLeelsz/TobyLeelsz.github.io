@@ -24,12 +24,12 @@ My research interest includes reinforcement learning and generative models.
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
-  Abstract: Deep generative models have recently emerged as an effective approach to offline reinforcement learning. However, their large model size poses challenges in computation. We address this issue by proposing a knowledge distillation method based on data augmentation. In particular, high-return trajectories are generated from a conditional 
-  diffusion model, and they are blended with the original trajectories through a novel stitching algorithm that leverages a new reward generator. Applying the resulting dataset to behavioral cloning, the learned shallow policy whose size is much smaller outperforms or nearly matches deep generative planners on several D4RL benchmarks.
-
+  Main Contribution: We proposed a novel knowledge distilling method for offline RL, where two new large conditional diffusion models (DDR-I and DDR-II) are trained so that the sampled trajectories with a high return are blended with the original ones via a novel stitching method TSKD. This allows BC to learn a much smaller student model while 
+  retaining the good performance.
+  
   ![pipeline_TSKD](/images/pipeline.png)
 
-  The Forty-first International Conference on Machine Learning (ICML 2024), *under review*.
+  The Forty-first International Conference on Machine Learning (**ICML 2024**), *under review*.
 - *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
 
 # 🎖 Honors and Awards
