@@ -9,17 +9,19 @@ redirect_from:
 ---
 Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
 
-My research interest includes reinforcement learning and generative models. I haven't published any papers yet but I'm trying my best in the research.
+My research interest includes reinforcement learning and generative models.
 
 *Links to my social media:*
 - [**Bilibili**](https://space.bilibili.com/183461839)
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
-- *2023.09*, &nbsp;🎉🎉 Homepage has been set up.  
+- *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
+- *2024.02*, New work submitted to ICML 2024!
 
 # 📝 Publications and Projects
 - *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
+- *2024.01* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**, The Forty-first International Conference on Machine Learning (ICML 2024) *under review*.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
@@ -44,7 +46,7 @@ My research interest includes reinforcement learning and generative models. I ha
 
 # 💻 Internships and Research Experience
 - *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Supervisor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
-- *2023.05 - now*, **Research Intern**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
+- *2023.05 - 2024.01*, **Research Intern**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
 - *2023.10 - now*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Supervisor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/), [**Dr. Patrick Schnell**](https://ge.in.tum.de/about/patrick-schnell/)
 - *2023.11 - now*, **Advisor**, Reconstruction and Conditional Generation of EEG signal data using Diffusion Model via Learned Representation. Head Supervisor: [**Prof. Kai Wu, South China University of Technology**](https://www2.scut.edu.cn/bmse/2019/1216/c26925a449699/page.htm)
 - *2024.01 - now*, **Visiting Researcher**, Research on the Fast Adaptation Methods on Reinforcement Learning. Supervisor: [**Prof. Marco Caccamo, Technical University of Munich**](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/), [**Dr. Hongpeng Cao**](https://rtsl.cps.mw.tum.de/view_member?id=15)
