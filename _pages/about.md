@@ -20,8 +20,8 @@ My research interest includes reinforcement learning and generative models.
 - *2024.02*, New work submitted to ICML 2024!
 
 # 📝 Publications and Projects
-- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
 - *2024.01* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**, The Forty-first International Conference on Machine Learning (ICML 2024) *under review*.
+- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
