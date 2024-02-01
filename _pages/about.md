@@ -27,7 +27,7 @@ My research interest includes reinforcement learning and generative models.
   Abstract: Deep generative models have recently emerged as an effective approach to offline reinforcement learning. However, their large model size poses challenges in computation. We address this issue by proposing a knowledge distillation method based on data augmentation. In particular, high-return trajectories are generated from a conditional 
   diffusion model, and they are blended with the original trajectories through a novel stitching algorithm that leverages a new reward generator. Applying the resulting dataset to behavioral cloning, the learned shallow policy whose size is much smaller outperforms or nearly matches deep generative planners on several D4RL benchmarks.
   
-  The Forty-first International Conference on Machine Learning (ICML 2024) *under review*.
+  The Forty-first International Conference on Machine Learning (ICML 2024), *under review*.
 - *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
 
 # 🎖 Honors and Awards
