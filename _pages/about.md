@@ -20,7 +20,7 @@ My research interest includes reinforcement learning and generative models.
 - *2024.02*, New work submitted to ICML 2024!
 
 # 📝 Publications and Projects
-- *2024.01* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**
+- *2024.02* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
