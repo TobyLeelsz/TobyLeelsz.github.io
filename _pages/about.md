@@ -30,7 +30,11 @@ My research interest includes reinforcement learning and generative models.
   ![pipeline_TSKD](/images/pipeline.png)
 
   The Forty-first International Conference on Machine Learning (**ICML 2024**), *under review*.
-- *2021.9-2021.12* **EDCV Project**, Creating a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen.
+- *2021.9-2021.12* **EDCV Project**
+  
+  Main Contribution: Create a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen. Provide recommendation of the dining window based on user’s preference and estimated queueing time.
+
+  ![pipeline_EDCV](/images/pipeline_EDCV.png)
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
