@@ -31,6 +31,8 @@ My research interest includes reinforcement learning and generative models.
 
   The Forty-first International Conference on Machine Learning (**ICML 2024**), *under review*.
 - *2021.9-2021.12* **EDCV Project**
+
+  Responsible for FCHD algorithm training and tuning, mobile APP designing. *Group project*.
   
   Main Contribution: Create a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen. Provide recommendation of the dining window based on user’s preference and estimated queueing time.
 
