@@ -63,7 +63,7 @@ My research interest includes reinforcement learning and generative models.
 - *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Supervisor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm)
 - *2023.05 - 2024.01*, **Research Intern**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/)
 - *2023.10 - now*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Supervisor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/), [**Dr. Patrick Schnell**](https://ge.in.tum.de/about/patrick-schnell/)
-- *2023.11 - now*, **Advisor**, Reconstruction and Conditional Generation of EEG signal data using Diffusion Model via Learned Representation. Head Supervisor: [**Prof. Kai Wu, South China University of Technology**](https://www2.scut.edu.cn/bmse/2019/1216/c26925a449699/page.htm)
+- *2023.11 - now*, **Advisor**, Reconstruction and Conditional Generation of EEG Signal Data using Diffusion Model via Learned Representation. Head Supervisor: [**Prof. Kai Wu, South China University of Technology**](https://www2.scut.edu.cn/bmse/2019/1216/c26925a449699/page.htm)
 - *2024.01 - now*, **Visiting Researcher**, Research on the Fast Adaptation Methods on Reinforcement Learning. Supervisor: [**Prof. Marco Caccamo, Technical University of Munich**](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/), [**Dr. Hongpeng Cao**](https://rtsl.cps.mw.tum.de/view_member?id=15)
 
 # 📝 Articles
