@@ -11,6 +11,8 @@ Hello! Here is Shangzhe Li, an undergraduate student from South China University
 
 My research interest includes reinforcement learning and generative models.
 
+My CV: [**Shangzhe Li CV**](docs/Shangzhe_Li_CV_newest.pdf)
+
 *Links to my social media:*
 - [**Bilibili**](https://space.bilibili.com/183461839)
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
