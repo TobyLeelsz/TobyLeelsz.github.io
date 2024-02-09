@@ -38,7 +38,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV_newest_1.pdf)
   
   Main Contribution: Create a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen. Provide recommendation of the dining window based on user’s preference and estimated queueing time.
 
-
+  ![pipeline_EDCV](/images/pipeline_EDCV_1.png)
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
