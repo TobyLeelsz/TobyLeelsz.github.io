@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
+Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm currently an exchange student in Technical University of Munich. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
 
 My research interest includes reinforcement learning and generative models.
 
