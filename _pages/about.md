@@ -20,7 +20,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV_newest_1.pdf)
 # 🔥 News
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 - *2024.02*, New work submitted to ICML 2024!
-- *2024.03*, Summer intern offer received from Su Lab, UCSD! See you in San Diego in summer if everything goes smoothly!
+- *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
 
 # 📝 Publications and Projects
 - *2024.02* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**    [**(View Preprint)**](https://arxiv.org/abs/2402.00807)
