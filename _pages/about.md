@@ -96,6 +96,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV_newest_1.pdf)
 - [**Lie group and Lie algebra**](https://zhuanlan.zhihu.com/p/644154704)
 - [**Quantum Lorentz transformations and Poincaré algebra**](https://zhuanlan.zhihu.com/p/645056327)
 - [**Single particle state**](https://zhuanlan.zhihu.com/p/645264336)
+- [**Parity and time reversal**](https://zhuanlan.zhihu.com/p/692194960)
 
 **Mathematics Part:**
 - [**Dual spaces and tensors**](https://zhuanlan.zhihu.com/p/540551745)
