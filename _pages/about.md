@@ -47,13 +47,13 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV_newest_1.pdf)
 - *2022* Successful Participant, Mathematical Contest in Modeling(MCM)
 - *2023* Successful Participant, Mathematical Contest in Modeling(MCM)
 - *2021* Second Prize, Baidu “Paddle Paddle” Cup
-- *2022* First Prize, Taihu Academic Innovation Scholarship
-- *2022* Second Prize, Taihu Science Innovation Scholarship
+- *2022* First Prize, Taihu Academic Innovation Scholarship (CNY 8000)
+- *2022* Second Prize, Taihu Science Innovation Scholarship (CNY 5000)
 
 # 📖 Educations
 - *2023.10 - now*, Exchange student, Technical University of Munich.
 - *2021.09 - now*, Undergraduate student, South China University of Technology.
-- *2018.09 - 2021.06*, High school student, Affiliated High School of South China Normal University.
+- *2018.09 - 2021.06*, High school student (Physics Olympiad), Affiliated High School of South China Normal University.
 
 **Current GPA:** 3.87/4.00  **Current Rank:** 3/80
 
