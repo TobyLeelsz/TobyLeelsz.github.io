@@ -19,20 +19,23 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV_newest_1.pdf)
 
 # 🔥 News
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
-- *2024.02*, New work submitted to ICML 2024!
 - *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
+- *2024.05*, New work submitted to NeurIPS 2024!
 
 # 📝 Publications and Projects
-- *2024.02* **Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**    [**(View Preprint)**](https://arxiv.org/abs/2402.00807)
+- *2024.02* **Augmenting Offline Reinforcement Learning with Observation-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
-  Main Contribution: We proposed a novel knowledge distilling method for offline RL, where two new large conditional diffusion models (DDR-I and DDR-II) are trained so that the sampled trajectories with a high return are blended with the original ones via a novel stitching method TSKD. This allows BC to learn a much smaller student model while 
-  retaining the good performance.
+  Main Contribution:We proposed a novel data augmentation method DITS for offline RL,
+where state-only interactions are available with the environment.
+The generator based on conditional diffusion models allows high-return trajectories to be sampled,
+and the stitching algorithm blends them with the original ones.
+The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
   
   ![pipeline_TSKD](/images/pipeline.png)
 
-  The Forty-first International Conference on Machine Learning (**ICML 2024**), *under review*.
+  Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review*.
 - *2021.9-2021.12* **EDCV Project**
 
   Responsible for FCHD algorithm training and tuning, mobile APP designing. *Group project*.
