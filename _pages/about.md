@@ -23,7 +23,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2024.05*, New work submitted to NeurIPS 2024!
 
 # 📝 Publications and Projects
-- *2024.02* **Augmenting Offline Reinforcement Learning with Observation-only Interactions** 
+- *2024.05* **Augmenting Offline Reinforcement Learning with Observation-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
@@ -35,7 +35,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
   
   ![pipeline_TSKD](/images/pipeline.png)
 
-  Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review*.
+  Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review (all positive scores!)*.
 - *2021.9-2021.12* **EDCV Project**
 
   Responsible for FCHD algorithm training and tuning, mobile APP designing. *Group project*.
