@@ -22,7 +22,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
 - *2024.05*, New work submitted to NeurIPS 2024!
 
-# 📝 Publications and Projects
+# 📝 Publications
 - *2024.05* **Augmenting Offline Reinforcement Learning with Observation-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
