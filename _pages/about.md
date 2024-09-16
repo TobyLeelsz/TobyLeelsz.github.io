@@ -33,7 +33,7 @@ The generator based on conditional diffusion models allows high-return trajector
 and the stitching algorithm blends them with the original ones.
 The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
   
-  ![pipeline_TSKD](/images/pipeline.png)
+  ![pipeline_TSKD](/images/Bridge_1.png)
 
   Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review (all positive scores!)*.
 - *2021.9-2021.12* **EDCV Project**
