@@ -44,7 +44,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
 
 ![pipeline_TSDA](/images/pipeline_TSDA.png)
 
-IEEE International Conference on Robotics and Automation (**ICRA 2025**), *under review*.
+  IEEE International Conference on Robotics and Automation (**ICRA 2025**), *under review*.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
