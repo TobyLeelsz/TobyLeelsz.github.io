@@ -36,7 +36,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
   ![pipeline_TSKD](/images/Bridge_1.png)
 
   Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review (all positive scores!)*.
-- *2024.9* **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
+- *2024.09* **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
 
   Author: **Shangzhe Li**, Hongpeng Cao, Marco Caccamo
   
