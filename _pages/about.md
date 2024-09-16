@@ -27,7 +27,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
-  Main Contribution:We proposed a novel data augmentation method DITS for offline RL,
+  Main Contribution: We proposed a novel data augmentation method DITS for offline RL,
 where state-only interactions are available with the environment.
 The generator based on conditional diffusion models allows high-return trajectories to be sampled,
 and the stitching algorithm blends them with the original ones.
@@ -36,13 +36,13 @@ The resulting augmented dataset is shown to significantly boost the performance 
   ![pipeline_TSKD](/images/Bridge_1.png)
 
   Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review (all positive scores!)*.
-- *2021.9-2021.12* **EDCV Project**
+- *2021.9-2021.12* **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
 
-  Responsible for FCHD algorithm training and tuning, mobile APP designing. *Group project*.
+  Author: **Shangzhe Li**, Hongpeng Cao, Marco Caccamo
   
-  Main Contribution: Create a mobile APP that designed to use computer vision techniques in order to optimize the waiting time in the school canteen. Provide recommendation of the dining window based on user’s preference and estimated queueing time.
+  Main Contribution: This work improves the sampling efficiency for policy adaptation in the deployment environment by stitching the offline experiences with newly collected few-shot experiences from the new environment. The proposed stitching algorithm incorporates the dynamics information of the true-MDP with the new dataset, meanwhile increasing the data diversity and de-correlating the newly collected data. The experiments on two cases show that the pre-trained policies are improved more efficiently with higher accumulated reward by using the stitched dataset than direct fine-tuning using raw data. The limitation of the work is that the proposed algorithm requires more computation workload than the standard fine-tuning approach; secondly, the stitching algorithm might not be able to find stitchable states to form new trajectories when the deployment domain differs significantly from the pre-training domain. In future work, we will investigate the potential of the proposed algorithm in continual learning tasks.
 
-  ![pipeline_EDCV](/images/pipeline_EDCV_1.png)
+
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
