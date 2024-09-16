@@ -72,8 +72,8 @@ The resulting augmented dataset is shown to significantly boost the performance 
 - *2023.05 - 2024.01*, **Research Intern (Remote)**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/).
 - *2023.10 - 2024.06*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Supervisor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/), Mentor: [**Patrick Schnell**](https://ge.in.tum.de/about/patrick-schnell/).
 - *2024.01 - 2024.09*, **Research Intern**, Research on the Fast Adaptation Methods on Reinforcement Learning. Supervisor: [**Prof. Marco Caccamo, Technical University of Munich**](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/), Collaborator: [**Hongpeng Cao**](https://rtsl.cps.mw.tum.de/view_member?id=15).
-- *2024.02 - now* **Research Intern (Remote)**, Distillation in LLMs via Reinforcement Learning Algorithms. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/), Collaborator: [**Zishun Yu**](https://zishun.me/).
-- *2024.06 - now* **Research Intern**, Research in World Models and Inverse Reinforcement Learning. Supervisor: [**Prof. Hao Su, University of California, San Diego**](https://cseweb.ucsd.edu/~haosu/), Mentor: [**Zhiao Huang**](https://sites.google.com/view/zhiao-huang).
+- *2024.02 - now*, **Research Intern (Remote)**, Distillation in LLMs via Reinforcement Learning Algorithms. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/), Collaborator: [**Zishun Yu**](https://zishun.me/).
+- *2024.06 - now*, **Research Intern**, Research in World Models and Inverse Reinforcement Learning. Supervisor: [**Prof. Hao Su, University of California, San Diego**](https://cseweb.ucsd.edu/~haosu/), Mentor: [**Zhiao Huang**](https://sites.google.com/view/zhiao-huang).
 
 # 📝 Articles
 *Notice: All of the articles here are written in Chinese.* 
