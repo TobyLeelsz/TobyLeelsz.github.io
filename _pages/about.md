@@ -56,7 +56,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
 - *2022* Second Prize, Taihu Science Innovation Scholarship (CNY 5000)
 
 # 📖 Educations
-- *2023.10 - now*, Exchange student, Technical University of Munich.
+- *2023.10 - 2024.07*, Exchange student, Technical University of Munich.
 - *2021.09 - now*, Undergraduate student, South China University of Technology.
 - *2018.09 - 2021.06*, High school student (Physics Olympiad), Affiliated High School of South China Normal University.
 
