@@ -24,7 +24,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- *2024.05* **Augmenting Offline Reinforcement Learning with Observation-only Interactions** 
+- *2024.05* **Augmenting Offline Reinforcement Learning with State-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
@@ -75,7 +75,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
 - *2024.02 - now*, **Research Intern (Remote)**, Distillation in LLMs via Reinforcement Learning Algorithms. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/), Collaborator: [**Zishun Yu**](https://zishun.me/).
 - *2024.06 - now*, **Research Intern**, Research in World Models and Inverse Reinforcement Learning. Supervisor: [**Prof. Hao Su, University of California, San Diego**](https://cseweb.ucsd.edu/~haosu/), Mentor: [**Zhiao Huang**](https://sites.google.com/view/zhiao-huang).
 
-# 📝 Articles
+# 📝 Blog Articles
 *Notice: All of the articles here are written in Chinese.* 
 
 **Physics Part:**
