@@ -24,7 +24,14 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- *2024.05* **Augmenting Offline Reinforcement Learning with State-only Interactions** 
+- *2024.09* **Reward-free World Models for Online Imitation Learning**
+
+  Author: **Shangzhe Li**, Zhiao Huang, Hao Su
+
+  Main Contribution: We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
+
+  ![]
+- *2024.09* **Augmenting Offline Reinforcement Learning with State-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
@@ -36,7 +43,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
   
   ![pipeline_TSKD](/images/Bridge_1.png)
 
-  Conference on Neural Information Processing Systems (**NeurIPS 2024**), *under review (all positive scores!)*.
+  Conference on Neural Information Processing Systems (**ICLR 2025**), *under review*.
 - *2024.09* **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
 
   Author: **Shangzhe Li**, Hongpeng Cao, Marco Caccamo
