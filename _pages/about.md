@@ -24,7 +24,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- *2024.09* **Reward-free World Models for Online Imitation Learning**
+- **Reward-free World Models for Online Imitation Learning**
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
 
@@ -33,7 +33,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
   ![demo_IQMPC](/images/combined_vertical_video.gif)
 
   The Thirteenth International Conference on Learning Representations (**ICLR 2025**), *under review*.
-- *2024.09* **Augmenting Offline Reinforcement Learning with State-only Interactions** 
+- **Augmenting Offline Reinforcement Learning with State-only Interactions** 
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
@@ -46,7 +46,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
   ![pipeline_TSKD](/images/Bridge_1.png)
 
   The Thirteenth International Conference on Learning Representations (**ICLR 2025**), *under review*.
-- *2024.09* **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
+- **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
 
   Author: **Shangzhe Li**, Hongpeng Cao, Marco Caccamo
   
