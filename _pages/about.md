@@ -33,7 +33,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
   ![demo_IQMPC](/images/combined_vertical_video.gif)
 
   The Thirteenth International Conference on Learning Representations (**ICLR 2025**), *under review*.
-- **Augmenting Offline Reinforcement Learning with State-only Interactions** 
+- **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Preprint]](https://arxiv.org/abs/2402.00807)
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
