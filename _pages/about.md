@@ -18,8 +18,6 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
-- *2024.09*, New work submitted to ICRA 2025!
-- *2024.05*, New work submitted to NeurIPS 2024!
 - *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
