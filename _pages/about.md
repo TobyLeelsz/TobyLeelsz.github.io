@@ -22,7 +22,7 @@ CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- **Reward-free World Models for Online Imitation Learning**
+- **Reward-free World Models for Online Imitation Learning** [[Preprint]](https://arxiv.org/abs/2410.14081)
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
 
