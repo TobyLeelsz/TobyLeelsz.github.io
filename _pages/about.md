@@ -11,7 +11,7 @@ Hello! Here is Shangzhe Li, an undergraduate student from South China University
 
 My research interest includes reinforcement learning, robot learning and world models.
 
-CV: [**Shangzhe Li CV**](/shangzhe_CV_newest.pdf)
+CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
 
 *Links to my social media:*
 - [**Bilibili**](https://space.bilibili.com/183461839)
