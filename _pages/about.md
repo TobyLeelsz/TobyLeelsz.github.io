@@ -22,6 +22,15 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
+- **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**
+
+  Author: **Shangzhe Li**, Zhiao Huang, Hao Su
+
+  Main Contribution: We propose a novel approach for world model-based online imitation learning, featuring an innovative reward model formulation. Unlike traditional adversarial approaches that may introduce instability during training, our reward model is grounded in density estimation for both expert and behavioral state-action distributions. This formulation enhances stability while maintaining high performance. Our model demonstrates expert-level proficiency across various tasks in multiple benchmarks, including DMControl, Meta-World, and ManiSkill2. Furthermore, it consistently retains stable performance throughout long-term online training. With its robust reward modeling and stability, our approach has the potential to tackle complex real-world robotics control tasks, where reliability and adaptability are crucial.
+
+  ![demo_IQMPC](/images/pipeline_cdred.png)
+
+  The Thirteenth International Conference on Learning Representations (**ICLR 2025**), *under review*.
 - **Reward-free World Models for Online Imitation Learning** [[Preprint]](https://arxiv.org/abs/2410.14081)
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
