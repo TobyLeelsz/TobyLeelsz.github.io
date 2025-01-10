@@ -30,7 +30,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
 
   ![demo_IQMPC](/images/pipeline_cdred.png)
 
-  The Thirteenth International Conference on Learning Representations (**ICLR 2025**), *under review*.
+  Transactions on Machine Learning Research (**TMLR**), *under review*.
 - **Reward-free World Models for Online Imitation Learning** [[Preprint]](https://arxiv.org/abs/2410.14081)
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
