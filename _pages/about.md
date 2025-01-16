@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm currently a research intern in University of California at San Diego. I'm fortunate to have the opportunity to work with Prof. Hao Su. Previously, I have also worked with Prof. Marco Caccamo in Technical University of Munich and Prof. Xinhua Zhang in University of Illinois at Chicago. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
+Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm currently a research intern in University of California at San Diego. I'm fortunate to have the opportunity to work with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/). Previously, I have also worked with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) in Technical University of Munich and [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) in University of Illinois at Chicago. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
 
 My research interest includes reinforcement learning, robot learning and world models.
 
