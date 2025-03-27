@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Here is Shangzhe Li, an undergraduate student from South China University of Technology. I'm currently a research intern in University of California at San Diego. I'm fortunate to have the opportunity to work with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/). Previously, I have also worked with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) in Technical University of Munich and [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) in University of Illinois at Chicago. I'm an aviation enthusiast, a Physics & Mathematics lover and also a student majoring in Artificial Intelligence. My hometown is Guangzhou. I usually live stream on Bilibili and post articles on Zhihu. And by the way, I'm an anime lover.
+Hello! I'm Shangzhe Li, an undergraduate student from South China University of Technology and an incoming Ph.D. student at UNC Chapel Hill, where I’m fortunate to be advised by [Prof. Weitong Zhang](https://zeroweight.github.io/). Previously, I have worked with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at the University of California, San Diego, [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) at the Technical University of Munich, and [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois at Chicago.  
+
+I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. In my free time, I enjoy live streaming on Bilibili, sharing insights on Zhihu, and indulging in my love for anime.  
 
 My research interest includes reinforcement learning, robot learning and world models.
 
@@ -18,6 +20,8 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
+- *2025.03*, I'll be joining UNC Chapel Hill for my PhD, advised by Prof. Weitong Zhang!
+- *2025.03*, One paper has been accepted by ICLR 2025 Workshop on World Models.
 - *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
@@ -29,7 +33,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
   Main Contribution: We propose a novel approach for world model-based online imitation learning, featuring an innovative reward model formulation. Unlike traditional adversarial approaches that may introduce instability during training, our reward model is grounded in density estimation for both expert and behavioral state-action distributions. This formulation enhances stability while maintaining high performance. Our model demonstrates expert-level proficiency across various tasks in multiple benchmarks, including DMControl, Meta-World, and ManiSkill2. Furthermore, it consistently retains stable performance throughout long-term online training. With its robust reward modeling and stability, our approach has the potential to tackle complex real-world robotics control tasks, where reliability and adaptability are crucial.
 
   ![demo_IQMPC](/images/pipeline_cdred.png)
-  Transactions on Machine Learning Research (**TMLR**), *under review*.
+  **Preprint**.
   
 - **Reward-free World Models for Online Imitation Learning** [[Preprint]](https://arxiv.org/abs/2410.14081)
 
@@ -38,7 +42,7 @@ CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
   Main Contribution: We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
 
   ![demo_IQMPC](/images/combined_vertical_video.gif)
-  ICLR 2025 Workshop World Models.
+  **ICLR 2025 Workshop on World Models**.
   
 - **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Preprint]](https://arxiv.org/abs/2402.00807)
 
@@ -51,7 +55,7 @@ and the stitching algorithm blends them with the original ones.
 The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
   
   ![pipeline_TSKD](/images/Bridge_1.png)
-  Preprint.
+  **Preprint**.
   
 - **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
 
@@ -60,7 +64,7 @@ The resulting augmented dataset is shown to significantly boost the performance 
   Main Contribution: This work improves the sampling efficiency for policy adaptation in the deployment environment by stitching the offline experiences with newly collected few-shot experiences from the new environment. The proposed stitching algorithm incorporates the dynamics information of the true-MDP with the new dataset, meanwhile increasing the data diversity and de-correlating the newly collected data. The experiments on two cases show that the pre-trained policies are improved more efficiently with higher accumulated reward by using the stitched dataset than direct fine-tuning using raw data.
   
   ![pipeline_TSDA](/images/pipeline_TSDA.png)
-  Preprint.
+  **Preprint**.
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
