@@ -13,8 +13,6 @@ I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my s
 
 My research interest includes reinforcement learning, robot learning and world models.
 
-CV: [**Shangzhe Li CV**](/Shangzhe_Li_CV.pdf)
-
 *Links to my social media:*
 - [**Bilibili**](https://space.bilibili.com/183461839)
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
