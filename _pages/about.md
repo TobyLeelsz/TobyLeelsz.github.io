@@ -18,7 +18,7 @@ My research interest includes reinforcement learning, robot learning and world m
 - [**Zhihu**](https://www.zhihu.com/people/dva13304)
 
 # 🔥 News
-- *2025.03*, I'll be joining UNC Chapel Hill for my Ph.D., advised by Prof. Weitong Zhang!
+- *2025.03*, I'll be joining UNC Chapel Hill for my PhD, advised by Prof. Weitong Zhang!
 - *2025.03*, One paper has been accepted by ICLR 2025 Workshop on World Models.
 - *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
