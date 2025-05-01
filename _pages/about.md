@@ -41,7 +41,7 @@ My research interest includes reinforcement learning, robot learning and world m
   Main Contribution: We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
 
   ![demo_IQMPC](/images/combined_vertical_video.gif)
-  **ICML 2025 Poster (Short Version on ICLR 2025 Workshop on World Models)**.
+  **ICML 2025 (Short Version on ICLR 2025 Workshop on World Models)**.
   
 - **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Preprint]](https://arxiv.org/abs/2402.00807)
 
