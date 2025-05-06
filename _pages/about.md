@@ -25,7 +25,7 @@ My research interest includes reinforcement learning, robot learning and world m
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**
+- **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning** [[Paper Link]](https://arxiv.org/abs/2505.02228)
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
 
@@ -34,7 +34,7 @@ My research interest includes reinforcement learning, robot learning and world m
   ![demo_IQMPC](/images/pipeline_cdred.png)
   **Preprint**.
   
-- **Reward-free World Models for Online Imitation Learning** [[Preprint]](https://arxiv.org/abs/2410.14081)
+- **Reward-free World Models for Online Imitation Learning** [[Paper Link]](https://arxiv.org/abs/2410.14081)
 
   Author: **Shangzhe Li**, Zhiao Huang, Hao Su
 
@@ -43,7 +43,7 @@ My research interest includes reinforcement learning, robot learning and world m
   ![demo_IQMPC](/images/combined_vertical_video.gif)
   **ICML 2025 (Short Version on ICLR 2025 Workshop on World Models)**.
   
-- **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Preprint]](https://arxiv.org/abs/2402.00807)
+- **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Paper Link]](https://arxiv.org/abs/2402.00807)
 
   Author: **Shangzhe Li**, Xinhua Zhang
   
