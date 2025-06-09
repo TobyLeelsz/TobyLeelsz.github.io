@@ -41,7 +41,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 [Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
 
-Zishun Yu†, **Shangzhe Li†**, Xinhua Zhang
+Zishun Yu†, **Shangzhe Li**†, Xinhua Zhang
 
 -  Motivated by the observation that a small number of top tokens contribute the majority of the total probability mass, we proposed a top-p TD learning framework that operates over a top-p candidate action subset. This framework is, in principle, plug-and-play and can be integrated into any TD-based IRL algorithm. We demonstrated its practicality through a concrete implementation of top-p IQL and showed its empirical performance gains.
 </div>
