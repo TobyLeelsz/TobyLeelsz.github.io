@@ -25,45 +25,52 @@ My research interest includes reinforcement learning, robot learning and world m
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-- **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning** [[Paper Link]](https://arxiv.org/abs/2505.02228)
+†: Equal contribution.
 
-  Author: **Shangzhe Li**, Zhiao Huang, Hao Su
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  Main Contribution: We propose a novel approach for world model-based online imitation learning, featuring an innovative reward model formulation. Unlike traditional adversarial approaches that may introduce instability during training, our reward model is grounded in density estimation for both expert and behavioral state-action distributions. This formulation enhances stability while maintaining high performance. Our model demonstrates expert-level proficiency across various tasks in multiple benchmarks, including DMControl, Meta-World, and ManiSkill2. Furthermore, it consistently retains stable performance throughout long-term online training. With its robust reward modeling and stability, our approach has the potential to tackle complex real-world robotics control tasks, where reliability and adaptability are crucial.
+[Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
 
-  ![demo_IQMPC](/images/pipeline_cdred.png)
-  **Preprint**.
-  
-- **Reward-free World Models for Online Imitation Learning** [[Paper Link]](https://arxiv.org/abs/2410.14081)
+Zishun Yu†, **Shangzhe Li†**, Xinhua Zhang
 
-  Author: **Shangzhe Li**, Zhiao Huang, Hao Su
+-  Motivated by the observation that a small number of top tokens contribute the majority of the total probability mass, we proposed a top-p TD learning framework that operates over a top-p candidate action subset. This framework is, in principle, plug-and-play and can be integrated into any TD-based IRL algorithm. We demonstrated its practicality through a concrete implementation of top-p IQL and showed its empirical performance gains.
+</div>
+</div>
 
-  Main Contribution: We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/pipeline_cdred.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  ![demo_IQMPC](/images/combined_vertical_video.gif)
-  **ICML 2025 (Short Version on ICLR 2025 Workshop on World Models)**.
-  
-- **Augmenting Offline Reinforcement Learning with State-only Interactions** [[Paper Link]](https://arxiv.org/abs/2402.00807)
+[Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
 
-  Author: **Shangzhe Li**, Xinhua Zhang
-  
-  Main Contribution: We proposed a novel data augmentation method DITS for offline RL,
-where state-only interactions are available with the environment.
-The generator based on conditional diffusion models allows high-return trajectories to be sampled,
-and the stitching algorithm blends them with the original ones.
-The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
-  
-  ![pipeline_TSKD](/images/Bridge_1.png)
-  **Preprint**.
-  
-- **Data-efficient Offline Domain Adaptation for Model-free Agents using Model-based Trajectory Stitching**
+**Shangzhe Li**, Zhiao Huang, Hao Su
 
-  Author: **Shangzhe Li**, Hongpeng Cao, Marco Caccamo
-  
-  Main Contribution: This work improves the sampling efficiency for policy adaptation in the deployment environment by stitching the offline experiences with newly collected few-shot experiences from the new environment. The proposed stitching algorithm incorporates the dynamics information of the true-MDP with the new dataset, meanwhile increasing the data diversity and de-correlating the newly collected data. The experiments on two cases show that the pre-trained policies are improved more efficiently with higher accumulated reward by using the stitched dataset than direct fine-tuning using raw data.
-  
-  ![pipeline_TSDA](/images/pipeline_TSDA.png)
-  **Preprint**.
+- We propose a novel approach for world model-based online imitation learning, featuring an innovative reward model formulation. Unlike traditional adversarial approaches that may introduce instability during training, our reward model is grounded in density estimation for both expert and behavioral state-action distributions. This formulation enhances stability while maintaining high performance. Our model demonstrates expert-level proficiency across various tasks in multiple benchmarks, including DMControl, Meta-World, and ManiSkill2. Furthermore, it consistently retains stable performance throughout long-term online training. With its robust reward modeling and stability, our approach has the potential to tackle complex real-world robotics control tasks, where reliability and adaptability are crucial.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/combined_vertical_video.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
+
+**Shangzhe Li**, Zhiao Huang, Hao Su
+[**Code**](https://github.com/TobyLeelsz/iqmpc)
+
+- We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/Bridge_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Augmenting Offline Reinforcement Learning with State-only Interactions]([https://arxiv.org/abs/2410.14081](https://arxiv.org/abs/2402.00807))
+
+**Shangzhe Li**, Xinhua Zhang
+
+- We proposed a novel data augmentation method DITS for offline RL, where state-only interactions are available with the environment. The generator based on conditional diffusion models allows high-return trajectories to be sampled, and the stitching algorithm blends them with the original ones. The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
