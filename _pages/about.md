@@ -7,11 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Shangzhe Li, an undergraduate student from South China University of Technology and an incoming Ph.D. student at UNC Chapel Hill, where I’m fortunate to be advised by [Prof. Weitong Zhang](https://zeroweight.github.io/). Previously, I have worked with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at the University of California, San Diego, [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) at the Technical University of Munich, and [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois at Chicago.  
+Hello! I’m Shangzhe Li, an undergraduate student at South China University of Technology and an incoming Ph.D. student at UNC Chapel Hill, where I will be fortunate to work under the guidance of [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate closely with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at the University of California, San Diego. Previously, I’ve had the opportunity to work with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) at the Technical University of Munich and [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois at Chicago.
 
 I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. In my free time, I enjoy live streaming on Bilibili, sharing insights on Zhihu, and indulging in my love for anime.  
 
-My research interest includes reinforcement learning, robot learning and world models.
+My research interests lie broadly in the fields of reinforcement learning and imitation learning, with a focus on both algorithmic design and practical applications:
+
+- **Deep Reinforcement Learning**: I’m interested in developing novel reinforcement learning algorithms powered by deep neural networks to tackle complex decision-making problems. Lately, I’ve been particularly focused on model-based RL and the use of world models.
+
+- **Imitation Learning**: I explore new approaches to imitation learning, especially adversarial imitation learning in complex, high-dimensional environments. I’m also excited about leveraging large foundation models within imitation learning frameworks.
+
+- **Theoretical Foundations of RL/IL**: I aim to better understand the theoretical underpinnings of reinforcement and imitation learning, with the goal of using theory to inform and inspire more effective algorithmic designs.
+
+- **Applications in LLM Post-training and Robot Learning**: I’m interested in applying RL to enhance large language model post-training (e.g., alignment, distillation, and reasoning), as well as to solve challenging robotic control problems in manipulation and locomotion.
+
 
 *Links to my social media:*
 - [**Bilibili**](https://space.bilibili.com/183461839)
