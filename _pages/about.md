@@ -13,7 +13,7 @@ I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my s
 
 My research interests lie broadly in the fields of reinforcement learning and imitation learning, with a focus on both algorithmic design and practical applications:
 
-- **Deep Reinforcement Learning**: I’m interested in developing novel reinforcement learning algorithms powered by deep neural networks to tackle complex decision-making problems. Lately, I’ve been particularly focused on model-based RL and the use of world models.
+- **Deep Reinforcement Learning**: I’m interested in developing novel reinforcement learning algorithms powered by deep neural networks to tackle complex decision-making problems. Lately, I’ve been particularly focused on model-based RL.
 
 - **Imitation Learning**: I explore new approaches to imitation learning, especially adversarial imitation learning in complex, high-dimensional environments. I’m also excited about leveraging large foundation models within imitation learning frameworks.
 
