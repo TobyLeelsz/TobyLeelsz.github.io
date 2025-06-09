@@ -62,7 +62,7 @@ Zishun Yu†, **Shangzhe Li†**, Xinhua Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/Bridge_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/Combined_Bridge_DTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Augmenting Offline Reinforcement Learning with State-only Interactions]([https://arxiv.org/abs/2410.14081](https://arxiv.org/abs/2402.00807))
