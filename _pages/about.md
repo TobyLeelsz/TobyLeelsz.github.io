@@ -96,13 +96,6 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 - *2021.09 - now*, Undergraduate student, South China University of Technology.
 - *2018.09 - 2021.06*, High school student (Physics Olympiad), Affiliated High School of South China Normal University.
 
-**Current GPA:** 3.87/4.00  **Current Rank:** 3/80
-
-# 💬 Talks
-- *2023.09*, Invited by the Artificial Intelligence Association of South China University of Technology, Application of Diffusion Model on Offline Reinforcement Learning.
-  Link: [**Application of Diffusion Model on Offline Reinforcement Learning**](https://www.bilibili.com/video/BV1C8411v7QD/)
-- *2023.12*, Performed presentation in the Doctoral Seminar of Thuerey's Group from Technical University of Munich, Application of Diffusion Model on Offline Reinforcement Learning.
-
 # 💻 Internships and Research Experience
 - *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Supervisor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm).
 - *2023.05 - 2024.01*, **Research Intern (Remote)**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/).
