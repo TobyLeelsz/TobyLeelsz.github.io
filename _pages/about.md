@@ -34,7 +34,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 
 # 📝 Publications
-†: Equal contribution.
+†: Equal contributions.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
