@@ -83,8 +83,8 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 - *2022* Successful Participant, Mathematical Contest in Modeling(MCM)
 - *2023* Successful Participant, Mathematical Contest in Modeling(MCM)
 - *2021* Second Prize, Baidu “Paddle Paddle” Cup
-- *2022* First Prize, Taihu Academic Innovation Scholarship (CNY 8000)
-- *2022* Second Prize, Taihu Science Innovation Scholarship (CNY 5000)
+- *2022* First Prize, Taihu Academic Innovation Prize (CNY 8000)
+- *2022* Second Prize, Taihu Science Innovation Prize (CNY 5000)
 
 # 📖 Educations
 - *2023.10 - 2024.07*, Exchange student, Technical University of Munich.
