@@ -76,25 +76,3 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 - We proposed a novel data augmentation method DITS for offline RL, where state-only interactions are available with the environment. The generator based on conditional diffusion models allows high-return trajectories to be sampled, and the stitching algorithm blends them with the original ones. The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- *2022* First Prize, Asia and Pacific Mathematical Contest in Modeling(APMCM) 
-- *2022* Second Prize, National Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM)
-- *2022* Successful Participant, Mathematical Contest in Modeling(MCM)
-- *2023* Successful Participant, Mathematical Contest in Modeling(MCM)
-- *2021* Second Prize, Baidu “Paddle Paddle” Cup
-- *2022* First Prize, Taihu Academic Innovation Prize (CNY 8000)
-- *2022* Second Prize, Taihu Science Innovation Prize (CNY 5000)
-
-# 📖 Educations
-- *2023.10 - 2024.07*, Exchange student, Technical University of Munich.
-- *2021.09 - now*, Undergraduate student, South China University of Technology.
-- *2018.09 - 2021.06*, High school student (Physics Olympiad), Affiliated High School of South China Normal University.
-
-# 💻 Internships and Research Experience
-- *2022.09 - 2023.04*, **Undergraduate Research**, Neural Networks Compression and Acceleration Research. Supervisor: [**Prof. Ye Liu, South China University of Technology**](https://www2.scut.edu.cn/ft/2021/1102/c29779a449612/page.htm).
-- *2023.05 - 2024.01*, **Research Intern (Remote)**, Application of Diffusion Model on Offline Reinforcement Learning. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/).
-- *2023.10 - 2024.06*, **Research Intern**, Research on the Control Approach for Two-way Coupled Fluid Simulation. Supervisor: [**Prof. Nils Thuerey, Technical University of Munich**](https://ge.in.tum.de/about/n-thuerey/), Mentor: [**Patrick Schnell**](https://ge.in.tum.de/about/patrick-schnell/).
-- *2024.01 - 2024.09*, **Research Intern**, Research on the Fast Adaptation Methods on Reinforcement Learning. Supervisor: [**Prof. Marco Caccamo, Technical University of Munich**](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/), Collaborator: [**Hongpeng Cao**](https://rtsl.cps.mw.tum.de/view_member?id=15).
-- *2024.02 - now*, **Research Intern (Remote)**, Distillation in LLMs via Reinforcement Learning Algorithms. Supervisor: [**Prof. Xinhua Zhang, University of Illinois Chicago**](https://www.cs.uic.edu/~zhangx/), Collaborator: [**Zishun Yu**](https://zishun.me/).
-- *2024.06 - now*, **Research Intern**, Research in World Models and Inverse Reinforcement Learning. Supervisor: [**Prof. Hao Su, University of California, San Diego**](https://cseweb.ucsd.edu/~haosu/), Mentor: [**Zhiao Huang**](https://sites.google.com/view/zhiao-huang).
