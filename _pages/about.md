@@ -76,3 +76,44 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 - We proposed a novel data augmentation method DITS for offline RL, where state-only interactions are available with the environment. The generator based on conditional diffusion models allows high-return trajectories to be sampled, and the stitching algorithm blends them with the original ones. The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
 </div>
 </div>
+
+# 📝 Blog Articles
+*Notice: All of the articles here are written in Chinese.* 
+
+**Physics Part:**
+- [**Propagation of electromagnetic waves in the presence of conductors**](https://zhuanlan.zhihu.com/p/487555515)
+- [**Solution of Laplace's equation in spherical coordinate system**](https://zhuanlan.zhihu.com/p/492694563)
+- [**Gauge transformations and D'Alembert's equation**](https://zhuanlan.zhihu.com/p/504982231)
+- [**Maxwell stress tensor and electromagnetic field momentum**](https://zhuanlan.zhihu.com/p/523698037)
+- [**Electrodynamics of tensor forms**](https://zhuanlan.zhihu.com/p/538907023)
+- [**Geodesic equations, affine connections and covariant differentiation**](https://zhuanlan.zhihu.com/p/599077467)
+- [**Intrinsic time variations, geodesic equations advanced**](https://zhuanlan.zhihu.com/p/599930752)
+- [**Riemann curvature tensor**](https://zhuanlan.zhihu.com/p/600891458)
+- [**Curvature advanced and Bianchi Constant Equation**](https://zhuanlan.zhihu.com/p/601088640)
+- [**Energy-Momentum tensor and Einstein field equations**](https://zhuanlan.zhihu.com/p/601255696)
+- [**Relativistic electrodynamics and electromagnetic analogies**](https://zhuanlan.zhihu.com/p/602635631)
+- [**Harmonic coordinate condition**](https://zhuanlan.zhihu.com/p/604933950)
+- [**Energy, momentum and angular momentum of a gravitational field**](https://zhuanlan.zhihu.com/p/611102483)
+- [**Schwarzschild metric and Schwarzschild black hole**](https://zhuanlan.zhihu.com/p/612420413)
+- [**Gravitational wave**](https://zhuanlan.zhihu.com/p/614730295)
+- [**Gravitational wave advanced**](https://zhuanlan.zhihu.com/p/615282349)
+- [**Universal definition of the action and energy tensor**](https://zhuanlan.zhihu.com/p/619484924)
+- [**Energy-Momentum tensor advanced and gravitational action**](https://zhuanlan.zhihu.com/p/621155312)
+- [**Killing vector fields and maximal symmetric spaces**](https://zhuanlan.zhihu.com/p/624578802)
+- [**Lie group and Lie algebra**](https://zhuanlan.zhihu.com/p/644154704)
+- [**Quantum Lorentz transformations and Poincaré algebra**](https://zhuanlan.zhihu.com/p/645056327)
+- [**Single particle state**](https://zhuanlan.zhihu.com/p/645264336)
+- [**Parity and time reversal**](https://zhuanlan.zhihu.com/p/692194960)
+
+**Mathematics Part:**
+- [**Dual spaces and tensors**](https://zhuanlan.zhihu.com/p/540551745)
+- [**Symmetry of the tensor**](https://zhuanlan.zhihu.com/p/543078969)
+- [**Continuous and discrete time Fourier transforms**](https://zhuanlan.zhihu.com/p/606937411)
+- [**Laplace transform and Z-transform**](https://zhuanlan.zhihu.com/p/611844650)
+- [**Primary fiber bundles (I)**](https://zhuanlan.zhihu.com/p/644632269)
+- [**Primary fiber bundles (II)**](https://zhuanlan.zhihu.com/p/656135139)
+- [**Connections on primary fibre bundles**](https://zhuanlan.zhihu.com/p/676335305)
+
+**Convex Optimization Part:**
+- [**Optimality theory for unconstrained problems**](https://zhuanlan.zhihu.com/p/612089283)
+- [**Duality theory**](https://zhuanlan.zhihu.com/p/615771472)
