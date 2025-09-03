@@ -77,7 +77,10 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 </div>
 </div>
 
-# 📝 Blog Articles
+# 📚 Teaching
+- Teaching Assistant, *DATA 110: Introduction to Data Science*, UNC Chapel Hill
+
+# 📖 Blog Articles
 *Notice: All of the articles here are written in Chinese.* 
 
 **Physics Part:**
