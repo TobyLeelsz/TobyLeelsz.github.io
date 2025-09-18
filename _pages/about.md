@@ -42,7 +42,7 @@ Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EWM@NeurIPS 2025</div><img src='/images/pipeline_cdred.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EWM @ NeurIPS 2025</div><img src='/images/pipeline_cdred.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
