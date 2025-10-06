@@ -42,8 +42,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
 
   Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
-
-  - Motivated by the observation that a small number of top tokens contribute the majority of the total probability mass, we proposed a top-p TD learning framework that operates over a top-p candidate action subset. This framework is, in principle, plug-and-play and can be integrated into any TD-based IRL algorithm. We demonstrated its practicality through a concrete implementation of top-p IQL and showed its empirical performance gains.
   </div>
 </div>
 
@@ -57,8 +55,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
 
   **Shangzhe Li**, Zhiao Huang, Hao Su
-
-  - We propose a novel approach for world model-based online imitation learning, featuring an innovative reward model formulation. Unlike traditional adversarial approaches that may introduce instability during training, our reward model is grounded in density estimation for both expert and behavioral state-action distributions. This formulation enhances stability while maintaining high performance. Our model demonstrates expert-level proficiency across various tasks in multiple benchmarks, including DMControl, Meta-World, and ManiSkill2. Furthermore, it consistently retains stable performance throughout long-term online training. With its robust reward modeling and stability, our approach has the potential to tackle complex real-world robotics control tasks, where reliability and adaptability are crucial.
   </div>
 </div>
 
@@ -74,8 +70,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   **Shangzhe Li**, Zhiao Huang, Hao Su  
   [**Code**](https://github.com/TobyLeelsz/iqmpc)
-
-  - We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
   </div>
 </div>
 
@@ -89,8 +83,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Augmenting Offline Reinforcement Learning with State-only Interactions](https://arxiv.org/abs/2402.00807)
 
   **Shangzhe Li**, Xinhua Zhang
-
-  - We proposed a novel data augmentation method DITS for offline RL, where state-only interactions are available with the environment. The generator based on conditional diffusion models allows high-return trajectories to be sampled, and the stitching algorithm blends them with the original ones. The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
   </div>
 </div>
 
