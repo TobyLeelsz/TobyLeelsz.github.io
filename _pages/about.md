@@ -35,7 +35,21 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 1 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">arXiv</div>
+    <div class="badge">arXiv Preprint</div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online
+  Imitation-Pretrained World Models](http://arxiv.org/abs/2510.02538)
+
+  Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Zhiao Huang, Weitong Zhang, Hao Su
+  </div>
+</div>
+
+<!-- Paper 2 -->
+<div class='paper-box'>
+  <div class="badge-box">
+    <div class="badge">arXiv Preprint</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
@@ -45,7 +59,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 3 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">EWM @ NeurIPS 2025</div>
@@ -58,7 +72,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 3 -->
+<!-- Paper 4 -->
 
 <div class='paper-box'>
   <div class="badge-box">
@@ -73,10 +87,10 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 4 -->
+<!-- Paper 5 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">arXiv</div>
+    <div class="badge">arXiv Preprint</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
