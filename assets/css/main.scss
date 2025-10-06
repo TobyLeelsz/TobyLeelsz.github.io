@@ -52,13 +52,24 @@
   border-radius: 8px;
   margin-bottom: 2em;
 
-  // Badge on the left of text
+  // Badge on the left with vertical separator
   .badge-box {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 1em; // spacing between badge and text
-    min-width: 80px; // consistent width for alignment
+    margin-right: 1em; // space between badge and text
+    min-width: 80px; // fixed width for alignment
+    position: relative;
+
+    &:after {
+      content: "";
+      position: absolute;
+      right: -8px; /* space between badge and vertical line */
+      top: 0;
+      bottom: 0;
+      width: 1px;
+      background-color: #d0d0d0; // vertical line color
+    }
   }
 
   .badge {
