@@ -62,16 +62,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-[Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
-
-**Shangzhe Li**, Zhiao Huang, Hao Su
-
-[**Code**](https://github.com/TobyLeelsz/iqmpc)
-
-- We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
-</div>
-</div>
-
+<!-- Paper 3 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">arXiv</div>
@@ -85,6 +76,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   - We proposed a novel data augmentation method DITS for offline RL, where state-only interactions are available with the environment. The generator based on conditional diffusion models allows high-return trajectories to be sampled, and the stitching algorithm blends them with the original ones. The resulting augmented dataset is shown to significantly boost the performance of base RL methods.
   </div>
 </div>
+
 # 📚 Teaching
 - Teaching Assistant, *DATA 110: Introduction to Data Science*, UNC Chapel Hill
 
