@@ -66,8 +66,8 @@
       content: "";
       position: absolute;
       right: 0;             // vertical line at right edge of badge box
-      top: 0;
-      bottom: 0;
+      top: -2em;            // extend line above
+      bottom: -2em;         // extend line below
       width: 1px;
       background-color: #d9d9d9; // vertical line color
     }
