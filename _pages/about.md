@@ -63,6 +63,23 @@ My research interests lie broadly in the fields of reinforcement learning and im
 </div>
 
 <!-- Paper 3 -->
+
+<div class='paper-box'>
+  <div class="badge-box">
+    <div class="badge">ICML 2025</div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
+
+  **Shangzhe Li**, Zhiao Huang, Hao Su  
+  [**Code**](https://github.com/TobyLeelsz/iqmpc)
+
+  - We propose an online imitation learning approach that utilizes reward-free world models to address tasks in complex environments. By incorporating latent planning and dynamics learning, our model can have a deeper understanding of intricate environment dynamics. We demonstrate stable, expert-level performance on challenging tasks, including dexterous hand manipulation and high-dimensional locomotion control.
+  </div>
+</div>
+
+<!-- Paper 4 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">arXiv</div>
