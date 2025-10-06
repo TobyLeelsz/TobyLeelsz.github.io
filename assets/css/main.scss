@@ -46,10 +46,13 @@
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  border-bottom: 1px #efefef solid;
+  border-bottom: 2px solid #d9d9d9; // stronger, clearer divider line
   padding: 2em 0;
-  position: relative; // ✅ needed for badge positioning
-  background-color: #fafafa;
+  position: relative; // for badge positioning
+  background-color: #ffffff; // pure white background
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05); // subtle card shadow for separation
+  border-radius: 8px;
+  margin-bottom: 2em; // extra spacing between papers
 
   // Badge box positioning (top-left corner)
   .badge-box {
@@ -76,9 +79,9 @@
 
     img {
       max-width: 400px;
-      box-shadow: 3px 3px 6px #888;
+      box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
       object-fit: cover;
-      border-radius: 6px;
+      border-radius: 8px;
     }
   }
 
