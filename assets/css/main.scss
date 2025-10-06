@@ -42,33 +42,40 @@
 
 .paper-box {
   display: flex;
-  justify-content: left;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: row;
   flex-wrap: wrap;
-  border-bottom: 2px solid #d9d9d9; // stronger, clearer divider line
+  border-bottom: 2px solid #d9d9d9; // clearer horizontal divider
   padding: 2em 0;
-  position: relative; // for badge positioning
   background-color: #ffffff; // pure white background
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05); // subtle card shadow for separation
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
   border-radius: 8px;
-  margin-bottom: 2em; // extra spacing between papers
+  margin-bottom: 2em;
 
-  // Badge box positioning (top-left corner)
+  // Badge on the left of text
   .badge-box {
-    position: absolute;
-    top: 12px;
-    left: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1em; // spacing between badge and text
+    min-width: 80px; // consistent width for alignment
   }
 
   .badge {
     background-color: #007acc;
     color: white;
     font-weight: 600;
-    padding: 3px 8px;
+    padding: 4px 10px;
     border-radius: 6px;
     font-size: 0.85em;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
+  }
+
+  .paper-box-text {
+    flex: 1;
+    margin-top: 4px;
+    padding-top: 4px;
   }
 
   .paper-box-image {
@@ -76,6 +83,7 @@
     display: flex;
     width: 100%;
     order: 2;
+    margin-top: 1em;
 
     img {
       max-width: 400px;
@@ -83,11 +91,6 @@
       object-fit: cover;
       border-radius: 8px;
     }
-  }
-
-  .paper-box-text {
-    margin-top: 8px;
-    padding-top: 12px;
   }
 
   @include breakpoint($medium) {
@@ -99,8 +102,8 @@
     }
 
     .paper-box-text {
-      margin-top: 8px;
-      padding-top: 12px;
+      margin-top: 4px;
+      padding-top: 4px;
     }
   }
 }
