@@ -45,12 +45,12 @@
   align-items: center;       // vertical center alignment
   flex-direction: row;
   flex-wrap: wrap;
-  border-bottom: 2px solid #d9d9d9; // horizontal divider
+  border-bottom: 1px solid #d9d9d9; // horizontal divider between papers
   padding: 2em 0;
-  background-color: #ffffff;       // pure white
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
-  border-radius: 8px;
-  margin-bottom: 2em;
+  background-color: transparent;    // remove white background
+  box-shadow: none;                 // remove shadow
+  border-radius: 0;                 // remove border radius
+  margin-bottom: 0;                 // remove spacing between papers
 
   // Badge on the left with fixed width and vertical line
   .badge-box {
@@ -58,9 +58,10 @@
     align-items: center;
     justify-content: center;
     min-width: 100px;       // fixed width for all papers
-    margin-right: 1em;      // space between badge and text
+    margin-right: 1.5em;    // space between badge and vertical line
+    padding-right: 1.5em;   // space between badge and vertical line
     position: relative;
-
+    
     &:after {
       content: "";
       position: absolute;
@@ -68,7 +69,7 @@
       top: 0;
       bottom: 0;
       width: 1px;
-      background-color: #d0d0d0; // vertical line color
+      background-color: #d9d9d9; // vertical line color
     }
   }
 
@@ -79,7 +80,7 @@
     padding: 4px 10px;
     border-radius: 6px;
     font-size: 0.85em;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: none;        // remove badge shadow
     white-space: nowrap;
   }
 
@@ -95,7 +96,7 @@
     width: 100%;
     order: 2;
     margin-top: 1em;
-
+    
     img {
       max-width: 400px;
       box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
