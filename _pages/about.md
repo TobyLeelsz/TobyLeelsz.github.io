@@ -19,7 +19,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 - **Theoretical Foundations of RL/IL**: I aim to better understand the theoretical underpinnings of reinforcement and imitation learning, with the goal of using theory to inform and inspire more effective algorithmic designs.
 
-- **Applications in LLM Post-training and Robot Learning**: I’m interested in applying RL to enhance large language model post-training (e.g., alignment, distillation, and reasoning), as well as to solve challenging robotic control problems in manipulation and locomotion.
+- **Applications in Post-training for Foundation Models and Robot Learning**: I’m interested in applying RL to enhance the post-training (e.g., alignment, distillation, and reasoning) for large foundation models (e.g., LLMs, VLMs, VLAs and Video Generation Models), as well as to solve challenging robotic control problems in manipulation and locomotion.
 
 # 🔥 News
 - *2025.09*, One paper has been accepted by NeurIPS 2025 Workshop on Embodied World Models.
