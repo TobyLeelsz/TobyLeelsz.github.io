@@ -159,3 +159,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
 **Convex Optimization Part:**
 - [**Optimality theory for unconstrained problems**](https://zhuanlan.zhihu.com/p/612089283)
 - [**Duality theory**](https://zhuanlan.zhihu.com/p/615771472)
+
+---
+**Special thanks to [五月](#) for the wonderful Kurisu avatar artwork!**
