@@ -82,6 +82,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
 
   **Shangzhe Li**, Zhiao Huang, Hao Su
+  
   [**Code**](https://github.com/TobyLeelsz/CDRED-WM)
   </div>
 </div>
@@ -97,6 +98,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
 
   **Shangzhe Li**, Zhiao Huang, Hao Su  
+  
   [**Code**](https://github.com/TobyLeelsz/iqmpc)
   </div>
 </div>
