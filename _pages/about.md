@@ -22,6 +22,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - **Applications in Post-training for Foundation Models and Robot Learning**: I’m interested in applying RL to enhance the post-training (e.g., alignment, distillation, and reasoning) for large foundation models (e.g., LLMs, VLMs, VLAs and Video Generation Models), as well as to solve challenging robotic control problems in manipulation and locomotion.
 
 # 🔥 News
+- *2025.11*, One paper has been accepted by AAAI 2026.
 - *2025.09*, One paper has been accepted by NeurIPS 2025 Workshop on Embodied World Models.
 - *2025.05*, One paper has been accepted by ICML 2025.
 - *2025.03*, I'll be joining UNC Chapel Hill for my PhD, advised by Prof. Weitong Zhang!
