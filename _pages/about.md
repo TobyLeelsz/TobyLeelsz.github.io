@@ -62,7 +62,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 3 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
+    <div class="badge">AAAI 2026</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
