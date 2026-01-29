@@ -97,6 +97,8 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
 
   Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
+
+  [**Code**](https://github.com/TobyLeelsz/Bellman-Distillation)
   </div>
 </div>
 
@@ -145,7 +147,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 </div>
 
 # 🧑‍💼 Professional Service
-- Reviewer/Program Committee Member: AAAI 2026, ICLR 2026, ICRA 2026.
+- Reviewer/Program Committee Member: AAAI 2026, ICLR 2026, ICRA 2026, ICML 2026.
 
 # 📚 Teaching
 - Teaching Assistant, *DATA 110: Introduction to Data Science*, UNC Chapel Hill
