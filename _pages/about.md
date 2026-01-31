@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello! I’m Shangzhe Li (李尚哲), a first-year Ph.D. student at UNC Chapel Hill, where I'm fortunate to work under the guidance of [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate closely with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at the University of California, San Diego. Previously, I’ve had the opportunity to work with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at the Technical University of Munich, as well as with [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois at Chicago.
 
-I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. In my free time, I enjoy live streaming on Bilibili, sharing insights on Zhihu, and indulging in my love for anime.  
+I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. 
 
 My research interests lie broadly in the fields of reinforcement learning and imitation learning, with a focus on both algorithmic design and practical applications:
 
@@ -151,6 +151,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 # 📚 Teaching
 - Teaching Assistant, *DATA 110: Introduction to Data Science*, UNC Chapel Hill
+- Teaching Assistant, *DATA 522: Practical Deep Learning Systems*, UNC Chapel Hill
 
 # 📖 Blog Articles
 *Notice: All of the articles here are written in Chinese.* 
