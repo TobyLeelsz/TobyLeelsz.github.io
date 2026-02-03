@@ -41,13 +41,26 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 
   <div class='paper-box-text' markdown="1">
+  [Your Self-Play Algorithm is Secretly an Adversarial Imitator: Understanding LLM Self-Play through the Lens of Imitation Learning](http://arxiv.org/abs/2602.01357)
+
+  **Shangzhe Li**, Xuchao Zhang, Chetan Bansal, Weitong Zhang
+  </div>
+</div>
+
+<!-- Paper 2 -->
+<div class='paper-box'>
+  <div class="badge-box">
+    <div class="badge">arXiv Preprint</div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
   [Imitation from Observations with Trajectory-Level Generative Embeddings](https://arxiv.org/abs/2601.00452)
 
   Yongtao Qu, **Shangzhe Li**, Weitong Zhang
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 3 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">arXiv Preprint</div>
@@ -60,7 +73,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 3 -->
+<!-- Paper 4 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">ICLR 2026</div>
@@ -73,7 +86,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 4 -->
+<!-- Paper 5 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">arXiv Preprint</div>
@@ -87,7 +100,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 5 -->
+<!-- Paper 6 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">AAAI 2026</div>
@@ -102,7 +115,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 6 -->
+<!-- Paper 7 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">EWM @ NeurIPS 2025</div>
@@ -117,7 +130,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 7 -->
+<!-- Paper 8 -->
 
 <div class='paper-box'>
   <div class="badge-box">
@@ -133,7 +146,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
   </div>
 </div>
 
-<!-- Paper 8 -->
+<!-- Paper 9 -->
 <div class='paper-box'>
   <div class="badge-box">
     <div class="badge">arXiv Preprint</div>
