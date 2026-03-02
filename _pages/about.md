@@ -51,7 +51,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 2 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">ReALM-GEN@ICLR 2026</div>
+    <div class="badge">ReALM-GEN @ ICLR 2026</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
