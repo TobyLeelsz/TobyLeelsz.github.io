@@ -22,6 +22,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - **Applications in Post-training for Foundation Models and Robot Learning**: I’m interested in applying RL to enhance the post-training (e.g., alignment, distillation, and reasoning) for large foundation models (e.g., LLMs, VLMs, VLAs and Video Generation Models), as well as to solve challenging robotic control problems in manipulation and locomotion.
 
 # 🔥 News
+- *2026.04*, One paper has been accepted by Transactions of Machine Learning Research.
 - *2026.03*, One paper has been accepted by ICLR 2026 Workshop on AI with Recursive Self-Improvement.
 - *2026.03*, One paper has been accepted by ICLR 2026 Workshop on Real-World Constrained and Preference-Aligned Generative Models.
 - *2026.01*, One paper has been accepted by ICLR 2026.
@@ -65,7 +66,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 3 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
+    <div class="badge">TMLR 2026</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
