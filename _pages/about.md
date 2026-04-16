@@ -40,6 +40,19 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 1 -->
 <div class='paper-box'>
   <div class="badge-box">
+    <div class="badge">arXiv Preprint</div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation](https://arxiv.org/abs/2604.13966)
+
+  **Shangzhe Li**, Weitong Zhang
+  </div>
+</div>
+
+<!-- Paper 1 -->
+<div class='paper-box'>
+  <div class="badge-box">
     <div class="badge">RSI @ ICLR 2026</div>
   </div>
 
