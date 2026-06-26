@@ -47,6 +47,8 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443)
 
   Baiqi Li, Ce Zhang, Yu Fang, Yue Yang, **Shangzhe Li**, Mingyu Ding, Gedas Bertasius
+
+  [**Code**](https://github.com/Baiqi-Li/WatchAct), [**Project Page**](https://baiqi-li.github.io/watchact_page/)
   </div>
 </div>
 
@@ -60,8 +62,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation](https://arxiv.org/abs/2604.13966)
 
   **Shangzhe Li**, Weitong Zhang
-
-  [**Code**](https://github.com/Baiqi-Li/WatchAct), [**Project Page**](https://baiqi-li.github.io/watchact_page/)
   </div>
 </div>
 
