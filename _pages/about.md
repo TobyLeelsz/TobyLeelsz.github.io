@@ -13,7 +13,6 @@ redirect_from:
 <h1>Shangzhe Li</h1>
 <p class="home-hero__tagline">Reinforcement Learning · Imitation Learning · World Models · Robot Learning</p>
 <div class="home-hero__actions">
-  <a class="hero-button hero-button--primary" href="/Shangzhe_Li_CV.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> CV</a>
   <a class="hero-button" href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
   <a class="hero-button" href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
   <a class="hero-button" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
