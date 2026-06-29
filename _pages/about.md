@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<section id="about-me" class="home-hero" markdown="1">
+<div class="home-layout" markdown="1">
+<aside id="about-me" class="home-hero" markdown="1">
+<div class="home-hero__profile">
+  <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
+  <div>
+    <span>{{ site.author.bio }}</span>
+    <span>{{ site.author.location }}</span>
+  </div>
+</div>
 <div class="home-hero__content" markdown="1">
 <p class="home-hero__eyebrow">Ph.D. Student · Machine Learning · Robotics</p>
 <h1>Shangzhe Li</h1>
@@ -18,15 +26,9 @@ redirect_from:
   <a class="hero-button" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
 </div>
 </div>
-<div class="home-hero__profile">
-  <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
-  <div>
-    <strong>{{ site.author.name }}</strong>
-    <span>{{ site.author.bio }}</span>
-    <span>{{ site.author.location }}</span>
-  </div>
-</div>
-</section>
+</aside>
+
+<div class="home-main" markdown="1">
 
 <section class="site-section intro-section" markdown="1">
 Hello! I’m Shangzhe Li (李尚哲), a first-year Ph.D. student at UNC Chapel Hill, where I'm fortunate to work under the guidance of [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate closely with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at the University of California, San Diego. Previously, I’ve had the opportunity to work with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at the Technical University of Munich, as well as with [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois at Chicago.
@@ -288,6 +290,8 @@ My research interests lie broadly in the fields of reinforcement learning and im
 ---
 **Special thanks to [五月](#) for the wonderful Kurisu avatar artwork!**
 </section>
+</div>
+</div>
 
 <footer class="site-footer-card">
   <span>© {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
