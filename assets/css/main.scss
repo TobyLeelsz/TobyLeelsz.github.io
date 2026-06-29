@@ -104,6 +104,8 @@ body:before {
   max-width: 1160px;
   margin-top: 0;
   padding: 0 1.25rem 3rem;
+  animation: none;
+  animation-delay: 0;
 }
 
 .page {
@@ -162,11 +164,11 @@ body:before {
 
 .home-layout {
   display: block;
-  width: calc(100vw - 980px - 2rem);
-  margin: 2rem 0 0 calc(980px - 1.25rem);
+  width: calc(66.667vw - 2rem);
+  margin: 2rem 0 0 calc(33.333vw - 1.25rem);
 
   @include breakpoint(1160px) {
-    margin-left: calc(980px - 1.25rem - ((100vw - 1160px) / 2));
+    margin-left: calc(33.333vw - 1.25rem - ((100vw - 1160px) / 2));
   }
 }
 
@@ -182,7 +184,7 @@ body:before {
   top: 0;
   bottom: 0;
   left: 0;
-  width: 980px;
+  width: 33.333vw;
   display: grid;
   align-content: start;
   gap: 1.6rem;
@@ -198,6 +200,7 @@ body:before {
   border: 0;
   border-radius: 0;
   box-shadow: 18px 0 42px rgba(15, 23, 42, 0.14);
+  animation: none;
 
   @include breakpoint(1160px) {
     left: 0;
@@ -214,6 +217,7 @@ body:before {
     background-position: 0 0, 0 0, 0 0;
     background-size: 36px 36px, 36px 36px, 100% 100%;
     opacity: 0.72;
+    animation: none;
   }
 
   > * {
@@ -660,7 +664,7 @@ body:before {
   }
 }
 
-@include breakpoint(max-width 1620px) {
+@include breakpoint(max-width $medium-wide) {
   #main {
     padding-right: 1rem;
     padding-left: 1rem;
