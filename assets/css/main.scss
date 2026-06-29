@@ -640,6 +640,13 @@ body:before {
   color: #475569;
   border-top: 1px solid rgba(148, 163, 184, 0.28);
 
+  .site-footer-card__ack {
+    flex: 1 0 100%;
+    color: #64748b;
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
   a {
     color: #334155;
     font-weight: 700;
