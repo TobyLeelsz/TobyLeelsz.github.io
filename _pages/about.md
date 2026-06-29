@@ -292,8 +292,10 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 <footer class="site-footer-card">
   <div class="site-footer-card__ack">Acknowledgement: special thanks to <a href="#">五月</a> for the Kurisu avatar artwork.</div>
-  <span>© {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
-  <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>
-  <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
-  <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+  <div class="site-footer-card__links">
+    <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>
+    <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
+    <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+    <span>© {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
+  </div>
 </footer>
