@@ -30,7 +30,7 @@ redirect_from:
 
 <div class="home-main" markdown="1">
 
-<section class="site-section intro-section" markdown="1">
+<section id="about" class="site-section intro-section" markdown="1">
 Hello! I’m Shangzhe Li (李尚哲), a first-year Ph.D. student at UNC Chapel Hill, where I'm fortunate to work under the guidance of [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate closely with [Prof. Hao Su](https://www.haosu.ai/) at Fudan University. Previously, I’ve had the opportunity to work with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at Technical University of Munich, as well as with [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at University of Illinois at Chicago.
 
 I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. 
@@ -59,7 +59,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 </div>
 </section>
 
-<section class="site-section news-section" markdown="1">
+<section id="news" class="site-section news-section" markdown="1">
 # 🔥 News
 - *2026.04*, One paper has been accepted by Transactions on Machine Learning Research.
 - *2026.03*, One paper has been accepted by ICLR 2026 Workshop on AI with Recursive Self-Improvement.
@@ -74,7 +74,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
 </section>
 
-<section class="site-section publications-section" markdown="1">
+<section id="publications" class="site-section publications-section" markdown="1">
 # 📝 Publications
 †: Equal contributions.
 
@@ -234,18 +234,18 @@ My research interests lie broadly in the fields of reinforcement learning and im
 </div>
 </section>
 
-<section class="site-section service-section" markdown="1">
+<section id="service" class="site-section service-section" markdown="1">
 # 🧑‍💼 Professional Service
 - Reviewer/Program Committee Member: AAAI 2026, ICLR 2026, ICRA 2026, ICML 2026.
 </section>
 
-<section class="site-section teaching-section" markdown="1">
+<section id="teaching" class="site-section teaching-section" markdown="1">
 # 📚 Teaching
 - Teaching Assistant, *DATA 110: Introduction to Data Science*, 2025 Fall, UNC Chapel Hill
 - Teaching Assistant, *DATA 522: Practical Deep Learning Systems*, 2026 Spring, UNC Chapel Hill
 </section>
 
-<section class="site-section blog-section" markdown="1">
+<section id="blog" class="site-section blog-section" markdown="1">
 # 📖 Blog Articles
 *Notice: All of the articles here are written in Chinese.* 
 
