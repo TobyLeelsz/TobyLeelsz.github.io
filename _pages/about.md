@@ -17,7 +17,7 @@ redirect_from:
   </div>
 </div>
 <div class="home-hero__content" markdown="1">
-<p class="home-hero__eyebrow">Ph.D. Student · Machine Learning · Robotics</p>
+<p class="home-hero__eyebrow">Computer Science Ph.D. Student</p>
 <h1>Shangzhe Li</h1>
 <p class="home-hero__tagline">Reinforcement Learning · Imitation Learning · World Models · Robot Learning</p>
 <div class="home-hero__actions">
