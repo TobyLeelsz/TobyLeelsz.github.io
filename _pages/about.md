@@ -89,7 +89,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   Baiqi Li, Ce Zhang, Yu Fang, Yue Yang, **Shangzhe Li**, Mingyu Ding, Gedas Bertasius
 
-  [**Code**](https://github.com/Baiqi-Li/WatchAct), [**Project Page**](https://baiqi-li.github.io/watchact_page/)
+  [**💻 Code**](https://github.com/Baiqi-Li/WatchAct), [**🔗 Project Page**](https://baiqi-li.github.io/watchact_page/)
   </div>
 </div>
 
@@ -143,7 +143,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   Xinming Gao †, **Shangzhe Li** †, Yujin Cai, Wenwu Yu
 
-  [**Code**](https://github.com/yunqianevergarden/Quantile-Q-Learning)
+  [**💻 Code**](https://github.com/yunqianevergarden/Quantile-Q-Learning)
   </div>
 </div>
 
@@ -185,7 +185,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
 
-  [**Code**](https://github.com/TobyLeelsz/Bellman-Distillation)
+  [**💻 Code**](https://github.com/TobyLeelsz/Bellman-Distillation)
   </div>
 </div>
 
@@ -200,7 +200,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   **Shangzhe Li**, Zhiao Huang, Hao Su
   
-  [**Code**](https://github.com/TobyLeelsz/CDRED-WM)
+  [**💻 Code**](https://github.com/TobyLeelsz/CDRED-WM)
   </div>
 </div>
 
@@ -216,7 +216,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
   **Shangzhe Li**, Zhiao Huang, Hao Su  
   
-  [**Code**](https://github.com/TobyLeelsz/iqmpc)
+  [**💻 Code**](https://github.com/TobyLeelsz/iqmpc)
   </div>
 </div>
 
