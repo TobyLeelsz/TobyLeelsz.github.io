@@ -193,7 +193,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 </div>
 
 # 🧑‍💼 Professional Service
-- Reviewer/Program Committee Member: AAAI 2026, ICLR 2026, ICRA 2026, ICML 2026.
+- Reviewer/Program Committee Member: AAAI 2026/2027, ICLR 2026, ICRA 2026, ICML 2026, NeurIPS 2026.
 
 # 📚 Teaching
 - Teaching Assistant, *DATA 110: Introduction to Data Science*, 2025 Fall, UNC Chapel Hill
