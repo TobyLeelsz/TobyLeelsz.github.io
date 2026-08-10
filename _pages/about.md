@@ -236,7 +236,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 <section id="service" class="site-section service-section" markdown="1">
 # 🧑‍💼 Professional Service
-- Reviewer/Program Committee Member: AAAI 2026, ICLR 2026, ICRA 2026, ICML 2026.
+- Reviewer/Program Committee Member: AAAI 2026/2027, ICLR 2026, ICRA 2026, ICML 2026, NeurIPS 2026.
 </section>
 
 <section id="teaching" class="site-section teaching-section" markdown="1">
