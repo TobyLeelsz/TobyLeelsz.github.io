@@ -140,8 +140,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Quantile Q-Learning: Revisiting Offline Extreme Q-Learning with Quantile Regression](https://arxiv.org/abs/2511.11973)
 
   Xinming Gao †, **Shangzhe Li** †, Yujin Cai, Wenwu Yu
-
-  [**💻 Code**](https://github.com/yunqianevergarden/Quantile-Q-Learning)
   </div>
 </div>
 
