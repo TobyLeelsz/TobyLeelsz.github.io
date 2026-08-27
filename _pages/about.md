@@ -31,7 +31,7 @@ redirect_from:
 <div class="home-main" markdown="1">
 
 <section id="about" class="site-section intro-section" markdown="1">
-Hello! I’m Shangzhe Li (李尚哲), a second-year Ph.D. student at UNC Chapel Hill, where I’m fortunate to be advised by [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate with [Prof. Hao Su](https://www.haosu.ai/) and [Dr. Zhiao Huang](https://sites.google.com/view/zhiao-huang) at Sudo AI. Previously, I had the privilege of working with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at the Technical University of Munich, as well as [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois Chicago.
+Hello! I’m Shangzhe Li (李尚哲), a second-year Ph.D. student at UNC Chapel Hill, where I’m fortunate to be advised by [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate with [Prof. Hao Su](https://www.haosu.ai/) and [Dr. Zhiao Huang](https://sites.google.com/view/zhiao-huang) at [Sudo AI](https://www.sudo.ai/). Previously, I had the privilege of working with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at the Technical University of Munich, as well as [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois Chicago.
 
 I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. 
 </section>
