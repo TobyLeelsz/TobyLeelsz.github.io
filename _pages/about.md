@@ -88,8 +88,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443)
 
   Baiqi Li, Ce Zhang, Yu Fang, Yue Yang, **Shangzhe Li**, Mingyu Ding, Gedas Bertasius
-
-  [**💻 Code**](https://github.com/Baiqi-Li/WatchAct), [**🔗 Project Page**](https://baiqi-li.github.io/watchact_page/)
   </div>
 </div>
 
@@ -184,8 +182,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
 
   Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
-
-  [**💻 Code**](https://github.com/TobyLeelsz/Bellman-Distillation)
   </div>
 </div>
 
@@ -199,8 +195,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
 
   **Shangzhe Li**, Zhiao Huang, Hao Su
-  
-  [**💻 Code**](https://github.com/TobyLeelsz/CDRED-WM)
   </div>
 </div>
 
@@ -215,8 +209,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   [Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
 
   **Shangzhe Li**, Zhiao Huang, Hao Su  
-  
-  [**💻 Code**](https://github.com/TobyLeelsz/iqmpc)
   </div>
 </div>
 
