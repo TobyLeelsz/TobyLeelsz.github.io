@@ -61,6 +61,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 
 <section id="news" class="site-section news-section" markdown="1">
 # 🔥 News
+- *2026.09*, One paper has been accepted by IROS 2026 Workshop on Physical World Models for Scaling Embodied AI.
 - *2026.04*, One paper has been accepted by Transactions on Machine Learning Research.
 - *2026.03*, One paper has been accepted by ICLR 2026 Workshop on AI with Recursive Self-Improvement.
 - *2026.03*, One paper has been accepted by ICLR 2026 Workshop on Real-World Constrained and Preference-Aligned Generative Models.
