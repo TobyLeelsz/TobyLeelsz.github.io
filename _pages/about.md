@@ -160,7 +160,7 @@ My research interests lie broadly in the fields of reinforcement learning and im
 <!-- Paper 5 -->
 <div class='paper-box'>
   <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
+    <div class="badge">PWMS @ IROS 2026</div>
   </div>
 
   <div class='paper-box-text' markdown="1">
