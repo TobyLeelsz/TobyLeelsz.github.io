@@ -162,7 +162,6 @@ My research interests lie broadly in the fields of reinforcement learning and im
   <div class="badge-box">
     <div class="badge">
       PWMS @ IROS 2026<br>
-      <span style="font-weight: 800;">Oral Presentation</span>
     </div>
   </div>
 
@@ -171,6 +170,8 @@ My research interests lie broadly in the fields of reinforcement learning and im
   Imitation-Pretrained World Models](http://arxiv.org/abs/2510.02538)
 
   Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Zhiao Huang, Weitong Zhang, Hao Su
+
+  🏆 **Oral Presentation**
   </div>
 </div>
 
