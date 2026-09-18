@@ -1,0 +1,74 @@
+- title: 'When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation'
+  url: https://arxiv.org/abs/2609.20511
+  authors: Yuxiao Yang †, Tianrun Yu †, **Shangzhe Li** †, Kaixiang Zhao †, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor
+    W. Killian, Weitong Zhang
+  venue: arXiv · 2026
+  category: preprints
+  oral: false
+- title: 'WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation'
+  url: https://arxiv.org/abs/2606.26443
+  authors: Baiqi Li, Ce Zhang, Yu Fang, Yue Yang, **Shangzhe Li**, Mingyu Ding, Gedas Bertasius
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
+- title: Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation
+  url: https://arxiv.org/abs/2604.13966
+  authors: '**Shangzhe Li**, Weitong Zhang'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
+- title: 'Quantile Q-Learning: Revisiting Offline Extreme Q-Learning with Quantile Regression'
+  url: https://arxiv.org/abs/2511.11973
+  authors: Xinming Gao †, **Shangzhe Li** †, Yujin Cai, Wenwu Yu
+  venue: TMLR 2026
+  category: publications
+  oral: false
+- title: Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation Learning
+  url: https://arxiv.org/abs/2510.09487
+  authors: '**Shangzhe Li**, Dongruo Zhou, Weitong Zhang'
+  venue: ICLR 2026
+  category: publications
+  oral: false
+- title: 'Language Model Distillation: A Temporal Difference Imitation Learning Perspective'
+  url: https://arxiv.org/abs/2505.20335
+  authors: Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
+  venue: AAAI 2026
+  category: publications
+  oral: false
+- title: Reward-free World Models for Online Imitation Learning
+  url: https://arxiv.org/abs/2410.14081
+  authors: '**Shangzhe Li**, Zhiao Huang, Hao Su'
+  venue: ICML 2025
+  category: publications
+  oral: false
+- title: Augmenting Offline Reinforcement Learning with State-only Interactions
+  url: https://arxiv.org/abs/2402.00807
+  authors: '**Shangzhe Li**, Xinhua Zhang'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
+- title: A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models
+  url: https://arxiv.org/abs/2510.02538
+  authors: Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Zhiao Huang, Weitong Zhang, Hao Su
+  venue: PWMS @ IROS 2026
+  category: workshops
+  oral: true
+- title: 'Your Self-Play Algorithm is Secretly an Adversarial Imitator: Understanding LLM Self-Play through the
+    Lens of Imitation Learning'
+  url: https://arxiv.org/abs/2602.01357
+  authors: '**Shangzhe Li**, Xuchao Zhang, Chetan Bansal, Weitong Zhang'
+  venue: RSI @ ICLR 2026
+  category: workshops
+  oral: false
+- title: Imitation from Observations with Trajectory-Level Generative Embeddings
+  url: https://arxiv.org/abs/2601.00452
+  authors: Yongtao Qu, **Shangzhe Li**, Weitong Zhang
+  venue: ReALM-GEN @ ICLR 2026
+  category: workshops
+  oral: false
+- title: Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning
+  url: https://arxiv.org/abs/2505.02228
+  authors: '**Shangzhe Li**, Zhiao Huang, Hao Su'
+  venue: EWM @ NeurIPS 2025
+  category: workshops
+  oral: false

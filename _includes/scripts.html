@@ -1,4 +1,6 @@
-<script src="assets/js/main.min.js"></script>
+{% unless page.academic_home %}
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% include fetch_google_scholar_stats.html %}
+{% endunless %}
 
 {% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}

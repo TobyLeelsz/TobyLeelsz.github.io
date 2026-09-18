@@ -1,0 +1,11 @@
+<div class="paper-list">
+{% assign papers = site.data.papers | where: "category", include.category %}
+{% for paper in papers %}
+  <article class="paper">
+    <div class="paper__meta"><span class="paper__venue">{{ paper.venue }}</span>{% if paper.oral %}<span class="paper__award">🏆 Oral presentation</span>{% endif %}</div>
+    <h3 class="paper__title"><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
+    <div class="paper__authors">{{ paper.authors | markdownify }}</div>
+    <a class="paper__link" href="{{ paper.url }}" aria-label="Read {{ paper.title | escape }} on arXiv">arXiv <span aria-hidden="true">↗</span></a>
+  </article>
+{% endfor %}
+</div>

@@ -1,8 +1,9 @@
 <!-- begin SEO -->
 {% if site.url %}
   {% assign seo_url = site.url %}
+{% else %}
+  {% assign seo_url = site.github.url %}
 {% endif %}
-{% assign seo_url = seo_url | default: site.github.url %}
 
 {% if site.url %}
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
@@ -13,6 +14,7 @@
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}

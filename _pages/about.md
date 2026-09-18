@@ -1,251 +1,145 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Shangzhe Li is a Ph.D. student at UNC Chapel Hill working on reinforcement learning, imitation learning, and world models."
 author_profile: false
-redirect_from: 
+academic_home: true
+redirect_from:
   - /about/
   - /about.html
 ---
 <div class="home-layout" markdown="1">
-<aside id="about-me" class="home-hero" markdown="1">
-<div class="home-hero__profile">
-  <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
-  <div>
-    <span>{{ site.author.bio }}</span>
-    <span>{{ site.author.location }}</span>
+<aside id="about-me" class="home-hero" aria-label="Profile">
+  <div class="home-hero__profile">
+    <img src="{{ site.author.avatar | relative_url }}" alt="Shangzhe Li’s illustrated avatar" width="176" height="176">
   </div>
-</div>
-<div class="home-hero__content" markdown="1">
-<p class="home-hero__eyebrow">Computer Science Ph.D. Student</p>
-<h1>Shangzhe Li</h1>
-<p class="home-hero__tagline">Reinforcement Learning · Imitation Learning · World Models · Robot Learning</p>
-<div class="home-hero__actions">
-  <a class="hero-button" href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
-  <a class="hero-button" href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-  <a class="hero-button" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
-</div>
-</div>
+  <div class="home-hero__content">
+    <p class="home-hero__eyebrow">Computer Science · Ph.D. Student</p>
+    <h1>Shangzhe Li</h1>
+    <p class="home-hero__chinese" lang="zh">李尚哲</p>
+    <p class="home-hero__affiliation">University of North Carolina<br>at Chapel Hill</p>
+    <p class="home-hero__location">Chapel Hill, North Carolina</p>
+    <div class="home-hero__actions">
+      <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><span>{{ site.author.email }}</span></a>
+      <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Scholar</span></a>
+      <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+    </div>
+    <p class="home-hero__research">Reinforcement learning<br>Imitation learning<br>World models &amp; robot learning</p>
+  </div>
 </aside>
 
 <div class="home-main" markdown="1">
-
 <section id="about" class="site-section intro-section" markdown="1">
+<h2>About me</h2>
 Hello! I’m Shangzhe Li (李尚哲), a second-year Ph.D. student at UNC Chapel Hill, where I’m fortunate to be advised by [Prof. Weitong Zhang](https://zeroweight.github.io/). I also collaborate with [Prof. Hao Su](https://www.haosu.ai/) and [Dr. Zhiao Huang](https://sites.google.com/view/zhiao-huang) at [Sudo AI](https://www.sudo.ai/). Previously, I had the privilege of working with [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/) and [Prof. Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) at the Technical University of Munich, as well as [Prof. Xinhua Zhang](https://www.cs.uic.edu/~zhangx/) at the University of Illinois Chicago.
 
-I'm passionate about aviation, Physics, and Mathematics, and I’m pursuing my studies in Artificial Intelligence. My hometown is Guangzhou. 
+Outside research, I enjoy aviation, physics, and mathematics. I’m originally from Guangzhou.
 </section>
 
 <section id="research" class="site-section research-section" markdown="1">
-## Research Interests
-My research interests lie broadly in the fields of reinforcement learning and imitation learning, with a focus on both algorithmic design and practical applications:
+<h2>Research interests</h2>
+I study reinforcement learning and imitation learning, connecting theoretical foundations with algorithms for foundation models and robotic decision-making.
 
-<div class="interest-grid" markdown="1">
-<article class="interest-card" markdown="1">
-**Deep Reinforcement Learning**: I’m interested in developing novel reinforcement learning algorithms powered by deep neural networks to tackle complex decision-making problems. Lately, I’ve been particularly focused on model-based RL.
-</article>
-
-<article class="interest-card" markdown="1">
-**Imitation Learning**: I explore new approaches to imitation learning, especially adversarial imitation learning in complex, high-dimensional environments. I’m also excited about leveraging large foundation models within imitation learning frameworks.
-</article>
-
-<article class="interest-card" markdown="1">
-**Theoretical Foundations of RL/IL**: I aim to better understand the theoretical underpinnings of reinforcement and imitation learning, with the goal of using theory to inform and inspire more effective algorithmic designs.
-</article>
-
-<article class="interest-card" markdown="1">
-**Applications in Post-training for Foundation Models and Robot Learning**: I’m interested in applying RL to enhance the post-training (e.g., alignment, distillation, and reasoning) for large foundation models (e.g., LLMs, VLMs, VLAs and Video Generation Models), as well as to solve challenging robotic control problems in manipulation and locomotion.
-</article>
+<div class="interest-grid">
+  <article class="interest-card"><span class="interest-number" aria-hidden="true">01</span><h3>Learning to act</h3><p>Deep and model-based reinforcement learning; adversarial imitation learning in high-dimensional environments.</p></article>
+  <article class="interest-card"><span class="interest-number" aria-hidden="true">02</span><h3>Foundations of learning</h3><p>Theoretical foundations of reinforcement and imitation learning that inform more effective algorithms.</p></article>
+  <article class="interest-card"><span class="interest-number" aria-hidden="true">03</span><h3>Models &amp; embodiment</h3><p>Alignment, distillation, and reasoning for foundation models; world models for robotic manipulation and locomotion.</p></article>
 </div>
 </section>
 
 <section id="news" class="site-section news-section" markdown="1">
-# 🔥 News
-- *2026.09*, One paper has been accepted by IROS 2026 Workshop on Physical World Models for Scaling Embodied AI for **Oral Presentation**.
-- *2026.04*, One paper has been accepted by Transactions on Machine Learning Research.
-- *2026.03*, One paper has been accepted by ICLR 2026 Workshop on AI with Recursive Self-Improvement.
-- *2026.03*, One paper has been accepted by ICLR 2026 Workshop on Real-World Constrained and Preference-Aligned Generative Models.
-- *2026.01*, One paper has been accepted by ICLR 2026.
-- *2025.11*, One paper has been accepted by AAAI 2026.
-- *2025.09*, One paper has been accepted by NeurIPS 2025 Workshop on Embodied World Models.
-- *2025.05*, One paper has been accepted by ICML 2025.
-- *2025.03*, I'll be joining UNC Chapel Hill for my PhD, advised by Prof. Weitong Zhang!
-- *2025.03*, One paper has been accepted by ICLR 2025 Workshop on World Models.
-- *2024.03*, Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
-- *2023.09*, &nbsp;🎉🎉 Homepage has been set up.
+<h2>News</h2>
+<ul class="news-list">
+<li><time datetime="2026-09">2026.09</time><div markdown="1">
+One paper has been accepted by IROS 2026 Workshop on Physical World Models for Scaling Embodied AI for **Oral Presentation**.
+</div></li>
+<li><time datetime="2026-04">2026.04</time><div markdown="1">
+One paper has been accepted by Transactions on Machine Learning Research.
+</div></li>
+<li><time datetime="2026-03">2026.03</time><div markdown="1">
+One paper has been accepted by ICLR 2026 Workshop on AI with Recursive Self-Improvement.
+</div></li>
+</ul>
+<details class="news-archive" markdown="1">
+<summary>Earlier news</summary>
+<ul class="news-list">
+<li><time datetime="2026-03">2026.03</time><div markdown="1">
+One paper has been accepted by ICLR 2026 Workshop on Real-World Constrained and Preference-Aligned Generative Models.
+</div></li>
+<li><time datetime="2026-01">2026.01</time><div markdown="1">
+One paper has been accepted by ICLR 2026.
+</div></li>
+<li><time datetime="2025-11">2025.11</time><div markdown="1">
+One paper has been accepted by AAAI 2026.
+</div></li>
+<li><time datetime="2025-09">2025.09</time><div markdown="1">
+One paper has been accepted by NeurIPS 2025 Workshop on Embodied World Models.
+</div></li>
+<li><time datetime="2025-05">2025.05</time><div markdown="1">
+One paper has been accepted by ICML 2025.
+</div></li>
+<li><time datetime="2025-03">2025.03</time><div markdown="1">
+I'll be joining UNC Chapel Hill for my PhD, advised by Prof. Weitong Zhang!
+</div></li>
+<li><time datetime="2025-03">2025.03</time><div markdown="1">
+One paper has been accepted by ICLR 2025 Workshop on World Models.
+</div></li>
+<li><time datetime="2024-03">2024.03</time><div markdown="1">
+Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCSD! See you in San Diego in summer if everything goes smoothly!
+</div></li>
+<li><time datetime="2023-09">2023.09</time><div markdown="1">
+&nbsp;🎉🎉 Homepage has been set up.
+</div></li>
+</ul>
+</details>
 </section>
 
-<section id="publications" class="site-section publications-section" markdown="1">
-# 📝 Publications
-†: Equal contributions.
-
-<!-- Paper 1 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation](https://arxiv.org/abs/2606.26443)
-
-  Baiqi Li, Ce Zhang, Yu Fang, Yue Yang, **Shangzhe Li**, Mingyu Ding, Gedas Bertasius
-  </div>
+<div class="papers-overview">
+  <nav class="paper-nav" aria-label="Paper categories">
+    <a href="#publications">Publications</a>
+    <a href="#preprints">Preprints</a>
+    <a href="#workshop-papers">Workshop papers</a>
+  </nav>
+  <p class="contribution-note">† Equal contribution</p>
 </div>
 
-<!-- Paper 1 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation](https://arxiv.org/abs/2604.13966)
-
-  **Shangzhe Li**, Weitong Zhang
-  </div>
-</div>
-
-<!-- Paper 1 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">RSI @ ICLR 2026</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Your Self-Play Algorithm is Secretly an Adversarial Imitator: Understanding LLM Self-Play through the Lens of Imitation Learning](http://arxiv.org/abs/2602.01357)
-
-  **Shangzhe Li**, Xuchao Zhang, Chetan Bansal, Weitong Zhang
-  </div>
-</div>
-
-<!-- Paper 2 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">ReALM-GEN @ ICLR 2026</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Imitation from Observations with Trajectory-Level Generative Embeddings](https://arxiv.org/abs/2601.00452)
-
-  Yongtao Qu, **Shangzhe Li**, Weitong Zhang
-  </div>
-</div>
-
-<!-- Paper 3 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">TMLR 2026</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Quantile Q-Learning: Revisiting Offline Extreme Q-Learning with Quantile Regression](https://arxiv.org/abs/2511.11973)
-
-  Xinming Gao †, **Shangzhe Li** †, Yujin Cai, Wenwu Yu
-  </div>
-</div>
-
-<!-- Paper 4 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">ICLR 2026</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation Learning](https://arxiv.org/abs/2510.09487)
-
-  **Shangzhe Li**, Dongruo Zhou, Weitong Zhang
-  </div>
-</div>
-
-<!-- Paper 5 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">
-      PWMS @ IROS 2026<br>
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online
-  Imitation-Pretrained World Models](http://arxiv.org/abs/2510.02538)
-
-  Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Zhiao Huang, Weitong Zhang, Hao Su
-
-  🏆 **Oral Presentation**
-  </div>
-</div>
-
-<!-- Paper 6 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">AAAI 2026</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Language Model Distillation: A Temporal Difference Imitation Learning Perspective](https://arxiv.org/abs/2505.20335)
-
-  Zishun Yu †, **Shangzhe Li** †, Xinhua Zhang
-  </div>
-</div>
-
-<!-- Paper 7 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">EWM @ NeurIPS 2025</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)
-
-  **Shangzhe Li**, Zhiao Huang, Hao Su
-  </div>
-</div>
-
-<!-- Paper 8 -->
-
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">ICML 2025</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Reward-free World Models for Online Imitation Learning](https://arxiv.org/abs/2410.14081)
-
-  **Shangzhe Li**, Zhiao Huang, Hao Su  
-  </div>
-</div>
-
-<!-- Paper 9 -->
-<div class='paper-box'>
-  <div class="badge-box">
-    <div class="badge">arXiv Preprint</div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  [Augmenting Offline Reinforcement Learning with State-only Interactions](https://arxiv.org/abs/2402.00807)
-
-  **Shangzhe Li**, Xinhua Zhang
-  </div>
-</div>
+<section id="publications" class="site-section publications-section">
+  <div class="section-heading"><h2>Publications</h2><span class="section-count">{{ site.data.papers | where: "category", "publications" | size }}</span></div>
+  {% include paper-list.html category="publications" %}
 </section>
 
+<section id="preprints" class="site-section publications-section">
+  <div class="section-heading"><h2>Preprints</h2><span class="section-count">{{ site.data.papers | where: "category", "preprints" | size }}</span></div>
+  {% include paper-list.html category="preprints" %}
+</section>
+
+<section id="workshop-papers" class="site-section publications-section">
+  <div class="section-heading"><h2>Workshop papers</h2><span class="section-count">{{ site.data.papers | where: "category", "workshops" | size }}</span></div>
+  {% include paper-list.html category="workshops" %}
+</section>
+
+<div class="academic-details" markdown="1">
 <section id="service" class="site-section service-section" markdown="1">
-# 🧑‍💼 Professional Service
-- Conference Reviewer/Program Committee Member: AAAI 2026/2027, ICLR 2026, ICRA 2026, ICML 2026, NeurIPS 2026.
-- Journal Reviewer: Transactions on Machine Learning Research (TMLR).
+<h2>Professional service</h2>
+<h3>Conference reviewer / program committee</h3>
+AAAI 2026/2027, ICLR 2026, ICRA 2026, ICML 2026, NeurIPS 2026.
+
+<h3>Journal reviewer</h3>
+Transactions on Machine Learning Research (TMLR).
 </section>
 
-<section id="teaching" class="site-section teaching-section" markdown="1">
-# 📚 Teaching
-- Teaching Assistant, *DATA 110: Introduction to Data Science*, 2025 Fall, UNC Chapel Hill
-- Teaching Assistant, *DATA 522: Practical Deep Learning Systems*, 2026 Spring, UNC Chapel Hill
+<section id="teaching" class="site-section teaching-section">
+<h2>Teaching</h2>
+<div class="teaching-item"><span>Spring 2026 · UNC Chapel Hill</span><h3>DATA 522</h3><p>Practical Deep Learning Systems<br><span>Teaching Assistant</span></p></div>
+<div class="teaching-item"><span>Fall 2025 · UNC Chapel Hill</span><h3>DATA 110</h3><p>Introduction to Data Science<br><span>Teaching Assistant</span></p></div>
 </section>
+</div>
 
 <section id="blog" class="site-section blog-section" markdown="1">
-# 📖 Blog Articles
-*Notice: All of the articles here are written in Chinese.* 
+<div class="section-heading"><h2>Writing</h2><span class="writing-language">Articles in Chinese</span></div>
+<details class="writing-group" markdown="1">
+<summary>Physics<span>23 articles</span></summary>
 
-**Physics Part:**
 - [**Propagation of electromagnetic waves in the presence of conductors**](https://zhuanlan.zhihu.com/p/487555515)
 - [**Solution of Laplace's equation in spherical coordinate system**](https://zhuanlan.zhihu.com/p/492694563)
 - [**Gauge transformations and D'Alembert's equation**](https://zhuanlan.zhihu.com/p/504982231)
@@ -270,7 +164,10 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - [**Single particle state**](https://zhuanlan.zhihu.com/p/645264336)
 - [**Parity and time reversal**](https://zhuanlan.zhihu.com/p/692194960)
 
-**Mathematics Part:**
+</details>
+<details class="writing-group" markdown="1">
+<summary>Mathematics<span>7 articles</span></summary>
+
 - [**Dual spaces and tensors**](https://zhuanlan.zhihu.com/p/540551745)
 - [**Symmetry of the tensor**](https://zhuanlan.zhihu.com/p/543078969)
 - [**Continuous and discrete time Fourier transforms**](https://zhuanlan.zhihu.com/p/606937411)
@@ -279,19 +176,19 @@ My research interests lie broadly in the fields of reinforcement learning and im
 - [**Primary fiber bundles (II)**](https://zhuanlan.zhihu.com/p/656135139)
 - [**Connections on primary fibre bundles**](https://zhuanlan.zhihu.com/p/676335305)
 
-**Convex Optimization Part:**
+</details>
+<details class="writing-group" markdown="1">
+<summary>Convex Optimization<span>2 articles</span></summary>
+
 - [**Optimality theory for unconstrained problems**](https://zhuanlan.zhihu.com/p/612089283)
 - [**Duality theory**](https://zhuanlan.zhihu.com/p/615771472)
+
+</details>
 </section>
-</div>
-</div>
 
 <footer class="site-footer-card">
-  <div class="site-footer-card__ack">Acknowledgement: special thanks to <a href="#">五月</a> for the Kurisu avatar artwork.</div>
-  <div class="site-footer-card__links">
-    <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>
-    <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
-    <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-    <span>© {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
-  </div>
+  <p>© {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+  <p>Special thanks to <span lang="zh">五月</span> for the Kurisu avatar artwork.</p>
 </footer>
+</div>
+</div>

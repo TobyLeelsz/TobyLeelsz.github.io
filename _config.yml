@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shangzhe's Home Page"
-description              : "Hi! Welcome to Shangzhe's homepage!"
+title                    : "Shangzhe Li"
+description              : "Ph.D. student at UNC Chapel Hill researching reinforcement learning, imitation learning, and world models."
 repository               : "TobyLeelsz/TobyLeelsz.github.io"
+url                      : "https://tobyleelsz.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -65,6 +67,9 @@ include:
   - _pages
   - files
 exclude:
+  - dist
+  - .openai
+  - .sites-runtime
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
