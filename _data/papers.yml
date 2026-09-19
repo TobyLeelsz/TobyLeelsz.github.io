@@ -49,7 +49,7 @@
   oral: false
 - title: A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models
   url: https://arxiv.org/abs/2510.02538
-  authors: Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Zhiao Huang, Weitong Zhang, Hao Su
+  authors: Yilin Wang †, **Shangzhe Li** †, Haoyi Niu, Jiawei Fu, Zhiao Huang, Weitong Zhang, Hao Su
   venue: PWMS @ IROS 2026
   category: workshops
   oral: true
