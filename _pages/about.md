@@ -51,6 +51,9 @@ I study reinforcement learning and imitation learning, connecting theoretical fo
 <h2>News</h2>
 <ul class="news-list">
 <li><time datetime="2026-09">2026.09</time><div markdown="1">
+Two papers have been accepted by NeurIPS 2026.
+</div></li>
+<li><time datetime="2026-09">2026.09</time><div markdown="1">
 One paper has been accepted by IROS 2026 Workshop on Physical World Models for Scaling Embodied AI for **Oral Presentation**.
 </div></li>
 <li><time datetime="2026-04">2026.04</time><div markdown="1">
