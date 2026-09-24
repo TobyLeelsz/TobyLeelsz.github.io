@@ -63,8 +63,8 @@
 - title: Imitation from Observations with Trajectory-Level Generative Embeddings
   url: https://arxiv.org/abs/2601.00452
   authors: Yongtao Qu, **Shangzhe Li**, Weitong Zhang
-  venue: ReALM-GEN @ ICLR 2026
-  category: workshops
+  venue: NeurIPS 2026
+  category: publications
   oral: false
 - title: Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning
   url: https://arxiv.org/abs/2505.02228
