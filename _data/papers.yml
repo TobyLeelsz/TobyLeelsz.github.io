@@ -1,3 +1,9 @@
+- title: Imitation from Observations with Trajectory-Level Generative Embeddings
+  url: https://arxiv.org/abs/2601.00452
+  authors: Yongtao Qu, **Shangzhe Li**, Weitong Zhang
+  venue: NeurIPS 2026
+  category: publications
+  oral: false
 - title: 'When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation'
   url: https://arxiv.org/abs/2609.20511
   authors: Yuxiao Yang †, Tianrun Yu †, **Shangzhe Li** †, Kaixiang Zhao †, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor
@@ -59,12 +65,6 @@
   authors: '**Shangzhe Li**, Xuchao Zhang, Chetan Bansal, Weitong Zhang'
   venue: RSI @ ICLR 2026
   category: workshops
-  oral: false
-- title: Imitation from Observations with Trajectory-Level Generative Embeddings
-  url: https://arxiv.org/abs/2601.00452
-  authors: Yongtao Qu, **Shangzhe Li**, Weitong Zhang
-  venue: NeurIPS 2026
-  category: publications
   oral: false
 - title: Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning
   url: https://arxiv.org/abs/2505.02228
