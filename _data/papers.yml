@@ -1,6 +1,6 @@
 - title: 'Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It'
   url: https://arxiv.org/abs/2609.32444
-  authors: '*Tianrun Yu, Kaixiang Zhao, **Shangzhe Li**, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W. Killian'
+  authors: 'Tianrun Yu, Kaixiang Zhao, **Shangzhe Li**, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W. Killian'
   venue: arXiv Preprint
   category: preprints
   oral: false
