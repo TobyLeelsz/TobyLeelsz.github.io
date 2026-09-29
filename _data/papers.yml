@@ -1,3 +1,9 @@
+- title: 'Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It'
+  url: https://arxiv.org/abs/2609.32444
+  authors: '*Tianrun Yu, Kaixiang Zhao, **Shangzhe Li**, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W. Killian'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
 - title: 'An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning'
   url: https://arxiv.org/abs/2609.35505
   authors: '**Shangzhe Li**, Yuxiao Yang, Tianrun Yu, Kaixiang Zhao, Xiaoyun Wang, Taylor W. Killian, Weitong Zhang'
