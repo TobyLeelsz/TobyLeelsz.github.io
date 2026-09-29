@@ -1,10 +1,10 @@
-- title: An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning
+- title: 'An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning'
   url: https://arxiv.org/abs/2609.35505
   authors: Shangzhe Li, Yuxiao Yang, Tianrun Yu, Kaixiang Zhao, Xiaoyun Wang, Taylor W. Killian, Weitong Zhang
   venue: arXiv Preprint
   category: preprints
   oral: false
-- title: Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning
+- title: 'Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning'
   url: https://arxiv.org/abs/2609.35698
   authors: Hanbin Zhou †, **Shangzhe Li** †, Alexander Braverman, Weitong Zhang
   venue: arXiv Preprint
