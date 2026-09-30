@@ -1,3 +1,9 @@
+- title: 'REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse'
+  url: https://arxiv.org/abs/2609.37500
+  authors: 'Yuxiao Yang, **Shangzhe Li**, Tianrun Yu, Kaixiang Zhao, Taylor W. Killian, Weitong Zhang'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
 - title: 'Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It'
   url: https://arxiv.org/abs/2609.32444
   authors: 'Tianrun Yu, Kaixiang Zhao, **Shangzhe Li**, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W. Killian'
