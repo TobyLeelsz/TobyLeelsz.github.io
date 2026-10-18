@@ -1,3 +1,9 @@
+- title: 'Recovering Reliable Supervision via Critique-Guided On-Policy Distillation'
+  url: https://arxiv.org/abs/2610.20572
+  authors: 'Kaixiang Zhao, Tianrun Yu, **Shangzhe Li**, Yuxiao Yang, Amanda Hughes, Weitong Zhang, Taylor W. Killian'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
 - title: 'REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse'
   url: https://arxiv.org/abs/2609.37500
   authors: 'Yuxiao Yang, **Shangzhe Li**, Tianrun Yu, Kaixiang Zhao, Taylor W. Killian, Weitong Zhang'
