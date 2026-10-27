@@ -125,10 +125,10 @@ Summer intern offer received from [Su Lab](https://cseweb.ucsd.edu/~haosu/), UCS
 <section id="service" class="site-section service-section" markdown="1">
 <h2>Professional service</h2>
 <h3>Conference reviewer / program committee</h3>
-AAAI 2026/2027, ICLR 2026, ICRA 2026, ICML 2026, NeurIPS 2026.
+AAAI 2026/2027, ICLR 2026/2027, ICRA 2026/2027, ICML 2026, NeurIPS 2026, AISTATS 2027, ACL ARR 2026 October.
 
 <h3>Journal reviewer</h3>
-Transactions on Machine Learning Research (TMLR).
+Transactions on Machine Learning Research (TMLR), Neural Networks.
 </section>
 
 <section id="teaching" class="site-section teaching-section">
