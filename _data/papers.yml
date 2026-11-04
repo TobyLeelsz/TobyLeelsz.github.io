@@ -1,3 +1,9 @@
+- title: 'On the Feature Evolution of Temporal Difference Learning'
+  url: https://arxiv.org/abs/2611.04158
+  authors: '**Shangzhe Li**, Dechen Zhang, Difan Zou, Weitong Zhang'
+  venue: arXiv Preprint
+  category: preprints
+  oral: false
 - title: 'Recovering Reliable Supervision via Critique-Guided On-Policy Distillation'
   url: https://arxiv.org/abs/2610.20572
   authors: 'Kaixiang Zhao, Tianrun Yu, **Shangzhe Li**, Yuxiao Yang, Amanda Hughes, Weitong Zhang, Taylor W. Killian'
