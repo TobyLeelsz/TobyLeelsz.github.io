@@ -14,7 +14,7 @@ redirect_from:
     <img src="{{ site.author.avatar | relative_url }}" alt="Shangzhe Li’s illustrated avatar" width="176" height="176">
   </div>
   <div class="home-hero__content">
-    <p class="home-hero__eyebrow">Computer Science · Ph.D. Student</p>
+    <p class="home-hero__eyebrow">Computer Science · Ph.D. Candidate</p>
     <h1>Shangzhe Li</h1>
     <p class="home-hero__chinese" lang="zh">李尚哲</p>
     <p class="home-hero__affiliation">University of North Carolina<br>at Chapel Hill</p>
