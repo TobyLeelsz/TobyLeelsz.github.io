@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Shangzhe Li is a Ph.D. student at UNC Chapel Hill working on reinforcement learning, imitation learning, and world models."
+excerpt: "Shangzhe Li is a Ph.D. candidate at UNC Chapel Hill working on reinforcement learning, imitation learning, and world models."
 author_profile: false
 academic_home: true
 redirect_from:
