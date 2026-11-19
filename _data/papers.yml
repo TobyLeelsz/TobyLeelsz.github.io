@@ -1,3 +1,9 @@
+- title: 'Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models'
+  url: https://openreview.net/forum?id=afU6OolFcZ
+  authors: 'Hao Wei, **Shangzhe Li**, Nils Thuerey'
+  venue: NeurIPS 2026
+  category: publications
+  oral: false
 - title: 'On the Feature Evolution of Temporal Difference Learning'
   url: https://arxiv.org/abs/2611.04158
   authors: '**Shangzhe Li**, Dechen Zhang, Difan Zou, Weitong Zhang'
